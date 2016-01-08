@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Gizmo_Win32" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug_Win\win.xpl" prefix_auto="1" extension_auto="0" />
+				<Option working_dir="..\..\..\..\x-plane\X-Plane 9 Demo" />
+				<Option object_output="obj\Debug\" />
+				<Option type="3" />
+				<Option compiler="gcc" />
+				<Option host_application="X-Plane.exe" />
+				<Option createDefFile="1" />
+				<Option createStaticLib="1" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-g" />
+					<Add option="-DBUILD_DLL" />
+				</Compiler>
+				<Linker>
+					<Add library="user32" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release_Win\win.xpl" prefix_auto="1" extension_auto="0" />
+				<Option object_output="obj\Release\" />
+				<Option type="3" />
+				<Option compiler="gcc" />
+				<Option host_application="X-Plane.exe" />
+				<Option createDefFile="1" />
+				<Option createStaticLib="1" />
+				<Compiler>
+					<Add option="-fexpensive-optimizations" />
+					<Add option="-O3" />
+					<Add option="-Wall" />
+					<Add option="-DBUILD_DLL" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="user32" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-DIBM=1" />
+			<Add option="-DMAC=0" />
+			<Add option="-DLIN=0" />
+			<Add option="-DXPLM200=0" />
+			<Add option="-DCURL_STATICLIB" />
+			<Add directory="C:\Users\br\x-plane\SDK\CHeaders\Widgets" />
+			<Add directory="C:\Users\br\x-plane\SDK\CHeaders\Wrappers" />
+			<Add directory="C:\Users\br\x-plane\SDK\CHeaders\XPLM" />
+			<Add directory="C:\Program Files\OpenAL 1.1 SDK\include" />
+			<Add directory="C:\Program Files\OpenAL 1.1 SDK\samples\framework\Win32" />
+			<Add directory="..\third_party_source\lua-5.1.4\src" />
+			<Add directory="..\third_party_source\curl-7.19.7\include" />
+			<Add directory="..\third_party_source\bullet-2.77\src" />
+			<Add directory="..\third_party_source\bullet-2.77\Extras\BulletColladaConverter" />
+			<Add directory="..\third_party_source\bullet-2.77\Demos\OpenGL" />
+			<Add directory="C:\Program Files\CodeBlocks\MinGW\pthreads\include" />
+		</Compiler>
+		<Linker>
+			<Add library="C:\Users\br\x-plane\SDK\Libraries\Win\XPLM.lib" />
+			<Add library="C:\Users\br\x-plane\SDK\Libraries\Win\XPWidgets.lib" />
+			<Add library="C:\Program Files\CodeBlocks\MinGW\lib\glut32.lib" />
+			<Add library="C:\Program Files\CodeBlocks\MinGW\lib\GLee.lib" />
+			<Add library="ws2_32" />
+			<Add library="winmm" />
+			<Add library="curl" />
+			<Add library="wsock32" />
+			<Add library="wldap32" />
+			<Add library="libOpenGLSupport" />
+			<Add library="BulletDynamics" />
+			<Add library="BulletSoftBody" />
+			<Add library="LinearMath" />
+			<Add library="BulletColladaConverter" />
+			<Add library="ColladaDom" />
+			<Add library="BulletCollision" />
+			<Add library="OpenAL32" />
+			<Add library="C:\Program Files\CodeBlocks\MinGW\pthreads\lib\libpthreadGC2.a" />
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="..\third_party_source\LuaJIT - Codeblocks Win32\libLuaJIT_Win32.a" />
+			<Add directory="C:\Users\br\x-plane\SDK\Libraries\Win" />
+			<Add directory="C:\Program Files\OpenAL 1.1 SDK\libs\Win32" />
+			<Add directory="..\third_party_source\bullet-2.77\lib" />
+		</Linker>
+		<Unit filename="AES.cpp" />
+		<Unit filename="AES.h" />
+		<Unit filename="BulletPhysicsHooks.cpp" />
+		<Unit filename="BulletPhysicsHooks.h" />
+		<Unit filename="GLee.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="GLee.h" />
+		<Unit filename="GlobalDefs.h" />
+		<Unit filename="LuaGL.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LuaGL.h" />
+		<Unit filename="OpenALHooks.h" />
+		<Unit filename="StringTools.cpp" />
+		<Unit filename="StringTools.h" />
+		<Unit filename="TerrainMap.cpp" />
+		<Unit filename="TerrainMap.h" />
+		<Unit filename="XDataRefCustom.cpp" />
+		<Unit filename="XDataRefCustom.h" />
+		<Unit filename="XLuaCustomCommandWrapper.h" />
+		<Unit filename="XLuaWidgetBaseWrapper.h" />
+		<Unit filename="XLuaWidgetWindowWrapper.h" />
+		<Unit filename="XLua_Prefix.pch" />
+		<Unit filename="XMiscUtils.cpp" />
+		<Unit filename="XMiscUtils.h" />
+		<Unit filename="XParticle.h" />
+		<Unit filename="XParticleEngine.cpp" />
+		<Unit filename="XParticleEngine.h" />
+		<Unit filename="XPlaneHooks.cpp" />
+		<Unit filename="XPlaneHooks.h" />
+		<Unit filename="XTrig.cpp" />
+		<Unit filename="XTrig.h" />
+		<Unit filename="X_STL.h" />
+		<Unit filename="b64.cpp" />
+		<Unit filename="b64.h" />
+		<Unit filename="luagl_util.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="luagl_util.h" />
+		<Unit filename="luaglu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="luaglu.h" />
+		<Unit filename="md5.cpp" />
+		<Unit filename="md5.h" />
+		<Unit filename="tgaTools.cpp" />
+		<Unit filename="tgaTools.h" />
+		<Unit filename="xlua_builtins.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="xlua_builtins.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="xlua_utils_CurlInterchange.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="xlua_utils_FboWrapper.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

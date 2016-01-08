@@ -1,0 +1,3500 @@
+# depslib dependency file v1.0
+1198414742 source:c:\users\br\documents\dev\c++\mu2b\main.cpp
+	"main.h"
+
+1198414742 c:\users\br\documents\dev\c++\mu2b\main.h
+	<windows.h>
+
+1231513738 source:c:\users\br\documents\dev\c++\mu2b\md5.c
+	<memory.h>
+	"md5.h"
+
+1231513738 c:\users\br\documents\dev\c++\mu2b\md5.h
+
+1231747515 source:c:\users\br\documents\dev\c++\mu2b\mu2_main.c
+	"mu2_MAIN.h"
+	"al.h"
+	"alc.h"
+	"efx.h"
+	"efx-creative.h"
+	"xram.h"
+
+1232899833 c:\users\br\documents\dev\c++\mu2b\sdk_defines.h
+
+1208930742 c:\users\br\x-plane\sdk200\sdk\cheaders\xplm\xplmdataaccess.h
+	"XPLMDefs.h"
+
+1208930742 c:\users\br\x-plane\sdk200\sdk\cheaders\xplm\xplmdefs.h
+	<windows.h>
+
+1208930742 c:\users\br\x-plane\sdk200\sdk\cheaders\xplm\xplmprocessing.h
+	"XPLMDefs.h"
+
+1208930742 c:\users\br\x-plane\sdk200\sdk\cheaders\xplm\xplmdisplay.h
+	"XPLMDefs.h"
+
+1208930742 c:\users\br\x-plane\sdk200\sdk\cheaders\xplm\xplmgraphics.h
+	"XPLMDefs.h"
+
+1208930742 c:\users\br\x-plane\sdk200\sdk\cheaders\xplm\xplmplugin.h
+	"XPLMDefs.h"
+
+1232899093 c:\users\br\documents\dev\c++\mu2b\mu2b60_functions.h
+	"sdk_defines.h"
+	"XPLMDataAccess.h"
+	"XPLMUtilities.h"
+
+1208930742 c:\users\br\x-plane\sdk200\sdk\cheaders\xplm\xplmutilities.h
+	"XPLMDefs.h"
+
+1230976284 c:\users\br\documents\dev\c++\mu2b\mu2b60_autopilot.h
+	"sdk_defines.h"
+	"XPLMDataAccess.h"
+	"XPLMUtilities.h"
+	"XPLMScenery.h"
+
+1208930742 c:\users\br\x-plane\sdk200\sdk\cheaders\xplm\xplmscenery.h
+	"XPLMDefs.h"
+
+1230976284 c:\users\br\documents\dev\c++\mu2b\xs_manipulators.h
+	"sdk_defines.h"
+	"XPLMDataAccess.h"
+	"XPLMUtilities.h"
+
+1230976284 c:\users\br\documents\dev\c++\mu2b\mu2b60_annunciators.h
+	"sdk_defines.h"
+	"XPLMDataAccess.h"
+	"XPLMUtilities.h"
+
+1230976284 c:\users\br\documents\dev\c++\mu2b\xs_utilities.h
+	"sdk_defines.h"
+
+1208930742 c:\users\br\x-plane\sdk200\sdk\cheaders\xplm\xplmmenus.h
+	"XPLMDefs.h"
+
+1208930742 c:\users\br\x-plane\sdk200\sdk\cheaders\widgets\xpstandardwidgets.h
+	"XPWidgetDefs.h"
+
+1208930742 c:\users\br\x-plane\sdk200\sdk\cheaders\widgets\xpwidgetdefs.h
+	"XPLMDefs.h"
+
+1208930742 c:\users\br\x-plane\sdk200\sdk\cheaders\widgets\xpwidgets.h
+	"XPWidgetDefs.h"
+
+1208930742 c:\users\br\x-plane\sdk200\sdk\cheaders\widgets\xpwidgetutils.h
+	"XPWidgetDefs.h"
+
+1231176102 c:\users\br\documents\dev\c++\mu2b\xplugins_drm.h
+	<stdlib.h>
+	"sdk_defines.h"
+	<XPLMPlanes.h>
+	<XPLMUtilities.h>
+	<openssl/md5.h>
+	<stdio.h>
+	<CoreFoundation/CoreFoundation.h>
+	<IOKit/IOKitLib.h>
+	<IOKit/network/IOEthernetInterface.h>
+	<IOKit/network/IONetworkInterface.h>
+	<IOKit/network/IOEthernetController.h>
+	"md5.h"
+	<stdio.h>
+	<string.h>
+	"XPLMUtilities.h"
+	<windows.h>
+	<iphlpapi.h>
+	<stdio.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<net/if.h>
+	<string.h>
+	"md5.h"
+
+1231513738 source:c:\users\br\documents\dev\c++\mu2b\mu2b60_annunciators.c
+	"sdk_defines.h"
+	"mu2b60_annunciators.h"
+	"drm_interlocks.h"
+
+1231513738 source:c:\users\br\documents\dev\c++\mu2b\mu2b60_autopilot.c
+	"sdk_defines.h"
+	"mu2b60_autopilot.h"
+	"drm_interlocks.h"
+
+1231513738 source:c:\users\br\documents\dev\c++\mu2b\mu2b60_functions.c
+	"sdk_defines.h"
+	<string.h>
+	"XPLMDataAccess.h"
+	"xs_manipulators.h"
+	"mu2b60_functions.h"
+	"xplugins_drm.h"
+	"xplugins_drm_gui.h"
+	"drm_interlocks.h"
+
+1232745898 source:c:\users\br\documents\dev\c++\mu2b\xs_manipulators.c
+	"sdk_defines.h"
+	<string.h>
+	"XPLMDataAccess.h"
+	"mu2b60_functions.h"
+	"xs_manipulators.h"
+	<math.h>
+	"drm_interlocks.h"
+
+1230976284 source:c:\users\br\documents\dev\c++\mu2b\xs_utilities.c
+	"sdk_defines.h"
+	"XPLMDataAccess.h"
+	"xs_utilities.h"
+
+1231513738 source:c:\users\br\documents\dev\c++\mu2b\xplugins_drm.c
+	"xplugins_drm.h"
+
+1208930742 c:\users\br\x-plane\sdk200\sdk\cheaders\xplm\xplmplanes.h
+	"XPLMDefs.h"
+
+1231261788 c:\users\br\documents\dev\c++\mu2b\xplugins_drm_gui.h
+	"sdk_defines.h"
+	<string.h>
+	"XPLMDataAccess.h"
+	"XPLMProcessing.h"
+	"XPLMDisplay.h"
+	"XPLMGraphics.h"
+	"XPLMPlugin.h"
+	"mu2b60_functions.h"
+	"mu2b60_autopilot.h"
+	"xs_manipulators.h"
+	"mu2b60_annunciators.h"
+	"xs_utilities.h"
+	"XPLMUtilities.h"
+	"XPLMMenus.h"
+	"XPStandardWidgets.h"
+	"XPWidgets.h"
+	"XPWidgetDefs.h"
+	"XPWidgetUtils.h"
+	<string.h>
+	<strings.h>
+	"xplugins_drm.h"
+
+1231255103 source:c:\users\br\documents\dev\c++\mu2b\xplugins_drm_gui.c
+	"xplugins_drm_gui.h"
+
+1231513738 c:\users\br\documents\dev\c++\mu2b\drm_interlocks.h
+
+1231513738 c:\users\br\documents\dev\c++\mu2b\mu2_main.h
+	"sdk_defines.h"
+	<string.h>
+	"XPLMDataAccess.h"
+	"XPLMProcessing.h"
+	"XPLMDisplay.h"
+	"XPLMGraphics.h"
+	"XPLMPlugin.h"
+	"mu2b60_functions.h"
+	"mu2b60_autopilot.h"
+	"xs_manipulators.h"
+	"mu2b60_annunciators.h"
+	"xs_utilities.h"
+	"XPLMUtilities.h"
+	"XPLMMenus.h"
+	"XPStandardWidgets.h"
+	"XPWidgets.h"
+	"XPWidgetDefs.h"
+	"XPWidgetUtils.h"
+	<string.h>
+	<strings.h>
+	"xplugins_drm.h"
+	"xplugins_drm_gui.h"
+	"drm_interlocks.h"
+
+1165552258 c:\program files\openal 1.1 sdk\include\al.h
+
+1176440568 c:\program files\openal 1.1 sdk\include\alc.h
+
+1165555872 c:\program files\openal 1.1 sdk\include\efx.h
+
+1148344126 c:\program files\openal 1.1 sdk\include\efx-creative.h
+
+1128562016 c:\program files\openal 1.1 sdk\include\xram.h
+	<al.h>
+
+1231510138 source:f:\dev\c++\mu2b\md5.c
+	<memory.h>
+	"md5.h"
+
+1231510138 f:\dev\c++\mu2b\md5.h
+
+1232895493 source:f:\dev\c++\mu2b\mu2_main.c
+	"mu2_MAIN.h"
+
+1231510138 f:\dev\c++\mu2b\mu2_main.h
+	"sdk_defines.h"
+	<string.h>
+	"XPLMDataAccess.h"
+	"XPLMProcessing.h"
+	"XPLMDisplay.h"
+	"XPLMGraphics.h"
+	"XPLMPlugin.h"
+	"mu2b60_functions.h"
+	"mu2b60_autopilot.h"
+	"xs_manipulators.h"
+	"mu2b60_annunciators.h"
+	"xs_utilities.h"
+	"XPLMUtilities.h"
+	"XPLMMenus.h"
+	"XPStandardWidgets.h"
+	"XPWidgets.h"
+	"XPWidgetDefs.h"
+	"XPWidgetUtils.h"
+	<string.h>
+	<strings.h>
+	"xplugins_drm.h"
+	"xplugins_drm_gui.h"
+	"drm_interlocks.h"
+
+1232896233 f:\dev\c++\mu2b\sdk_defines.h
+
+1232895493 f:\dev\c++\mu2b\mu2b60_functions.h
+	"sdk_defines.h"
+	"XPLMDataAccess.h"
+	"XPLMUtilities.h"
+
+1230972684 f:\dev\c++\mu2b\mu2b60_autopilot.h
+	"sdk_defines.h"
+	"XPLMDataAccess.h"
+	"XPLMUtilities.h"
+	"XPLMScenery.h"
+
+1230972684 f:\dev\c++\mu2b\xs_manipulators.h
+	"sdk_defines.h"
+	"XPLMDataAccess.h"
+	"XPLMUtilities.h"
+
+1230972684 f:\dev\c++\mu2b\mu2b60_annunciators.h
+	"sdk_defines.h"
+	"XPLMDataAccess.h"
+	"XPLMUtilities.h"
+
+1230972684 f:\dev\c++\mu2b\xs_utilities.h
+	"sdk_defines.h"
+
+1232931422 f:\dev\c++\mu2b\xplugins_drm.h
+	<stdlib.h>
+	"sdk_defines.h"
+	<XPLMPlanes.h>
+	<XPLMUtilities.h>
+	<openssl/md5.h>
+	<stdio.h>
+	<CoreFoundation/CoreFoundation.h>
+	<IOKit/IOKitLib.h>
+	<IOKit/network/IOEthernetInterface.h>
+	<IOKit/network/IONetworkInterface.h>
+	<IOKit/network/IOEthernetController.h>
+	"md5.h"
+	<stdio.h>
+	<string.h>
+	"XPLMUtilities.h"
+	<windows.h>
+	<iphlpapi.h>
+	<stdio.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<net/if.h>
+	<string.h>
+	"md5.h"
+
+1232895493 f:\dev\c++\mu2b\xplugins_drm_gui.h
+	"sdk_defines.h"
+	<string.h>
+	"XPLMDataAccess.h"
+	"XPLMProcessing.h"
+	"XPLMDisplay.h"
+	"XPLMGraphics.h"
+	"XPLMPlugin.h"
+	"mu2b60_functions.h"
+	"mu2b60_autopilot.h"
+	"xs_manipulators.h"
+	"mu2b60_annunciators.h"
+	"xs_utilities.h"
+	"XPLMUtilities.h"
+	"XPLMMenus.h"
+	"XPStandardWidgets.h"
+	"XPWidgets.h"
+	"XPWidgetDefs.h"
+	"XPWidgetUtils.h"
+	<string.h>
+	<strings.h>
+	"xplugins_drm.h"
+
+1231510138 f:\dev\c++\mu2b\drm_interlocks.h
+
+1231510138 source:f:\dev\c++\mu2b\mu2b60_annunciators.c
+	"sdk_defines.h"
+	"mu2b60_annunciators.h"
+	"drm_interlocks.h"
+
+1231510138 source:f:\dev\c++\mu2b\mu2b60_autopilot.c
+	"sdk_defines.h"
+	"mu2b60_autopilot.h"
+	"drm_interlocks.h"
+
+1232895493 source:f:\dev\c++\mu2b\xplugins_drm.c
+	"xplugins_drm.h"
+
+1232895493 source:f:\dev\c++\mu2b\xplugins_drm_gui.c
+	"xplugins_drm_gui.h"
+
+1230972684 source:f:\dev\c++\mu2b\xs_utilities.c
+	"sdk_defines.h"
+	"XPLMDataAccess.h"
+	"xs_utilities.h"
+
+1245578105 source:c:\users\br\desktop\xlua\xdatarefcustom.cpp
+	"XDataRefCustom.h"
+
+1245578105 c:\users\br\desktop\xlua\xdatarefcustom.h
+	"XPLMDataAccess.h"
+	"X_STL.h"
+	"dmalloc.h"
+
+1215815272 c:\users\br\x-plane\sdk\cheaders\xplm\xplmdataaccess.h
+	"XPLMDefs.h"
+
+1215815272 c:\users\br\x-plane\sdk\cheaders\xplm\xplmdefs.h
+	<windows.h>
+
+1260352347 c:\users\br\desktop\xlua\x_stl.h
+	<string>
+	<list>
+	<vector>
+	<algorithm>
+	<iostream>
+	<map>
+
+1261988846 source:c:\users\br\desktop\xlua\xluabullethooks.cpp
+	"XLuaDefineSwitches.h"
+	"XLuaBulletHooks.h"
+
+1267698307 c:\users\br\desktop\xlua\xluadefineswitches.h
+
+1261988846 c:\users\br\desktop\xlua\xluabullethooks.h
+	"XLuaDefineSwitches.h"
+	<btBulletDynamicsCommon.h>
+	<GLDebugDrawer.h>
+	"XPLMUtilities.h"
+	"dmalloc.h"
+	<stdio.h>
+
+1261447875 source:c:\users\br\desktop\xlua\xluaopenal.cpp
+	"XLuaDefineSwitches.h"
+	"XLuaOpenAL.h"
+
+1250756467 c:\users\br\desktop\xlua\xluaopenal.h
+	"XLuaDefineSwitches.h"
+	<cstdlib>
+	<stdio.h>
+	"XPLMUtilities.h"
+	<OpenAL/al.h>
+	<OpenAL/alc.h>
+	<al.h>
+	<alc.h>
+	<AL/alut.h>
+	<AL/al.h>
+	<AL/alc.h>
+	<AL/alext.h>
+	<AL/alut.h>
+	"dmalloc.h"
+
+1267601548 source:c:\users\br\desktop\xlua\xluaxplanehooks.cpp
+	"XLuaXPlaneHooks.h"
+	"xlua_builtins.cpp"
+
+1267596166 c:\users\br\desktop\xlua\xluaxplanehooks.h
+	"XLuaDefineSwitches.h"
+	<curl/curl.h>
+	<pthread.h>
+	"XTrig.h"
+	"GLee.h"
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	"AES.h"
+	<xplugins_drm.h>
+	"md5.h"
+	<openssl/md5.h>
+	<Carbon/Carbon.h>
+	<dir.h>
+	<windows.h>
+	<sys/types.h>
+	<sys/stat.h>
+	"X_STL.h"
+	"XDataRefCustom.h"
+	<XPLMCamera.h>
+	<XPLMDataAccess.h>
+	<XPLMDisplay.h>
+	<XPLMGraphics.h>
+	<XPLMMenus.h>
+	<XPLMPlanes.h>
+	<XPLMPlugin.h>
+	<XPLMProcessing.h>
+	<XPLMScenery.h>
+	<XPLMUtilities.h>
+	<XPStandardWidgets.h>
+	<XPUIGraphics.h>
+	<XPWidgets.h>
+	<XPWidgetDefs.h>
+	<XPWidgetUtils.h>
+	"xlua_utils_CurlInterchange.h"
+	"dmalloc.h"
+	<lua.h>
+	<lauxlib.h>
+	<lualib.h>
+	"LuaGL.h"
+	"xlua_builtins.h"
+	"XLuaWidgetWindowWrapper.h"
+	"XLuaWidgetBaseWrapper.h"
+	"XLuaCustomCommandWrapper.h"
+	"XLuaBulletHooks.h"
+	"XLuaOpenAL.h"
+	"dmalloc.h"
+	"XObjectV8.h"
+	"XParticleEngine.h"
+	"XLuaLuaNamespaceTables.h"
+
+1215815272 c:\users\br\x-plane\sdk\cheaders\xplm\xplmmenus.h
+	"XPLMDefs.h"
+
+1215815272 c:\users\br\x-plane\sdk\cheaders\xplm\xplmdisplay.h
+	"XPLMDefs.h"
+
+1215815272 c:\users\br\x-plane\sdk\cheaders\xplm\xplmutilities.h
+	"XPLMDefs.h"
+
+1215815272 c:\users\br\x-plane\sdk\cheaders\xplm\xplmprocessing.h
+	"XPLMDefs.h"
+
+1215815272 c:\users\br\x-plane\sdk\cheaders\xplm\xplmplugin.h
+	"XPLMDefs.h"
+
+1215815272 c:\users\br\x-plane\sdk\cheaders\xplm\xplmplanes.h
+	"XPLMDefs.h"
+
+1215815272 c:\users\br\x-plane\sdk\cheaders\xplm\xplmgraphics.h
+	"XPLMDefs.h"
+
+1215815272 c:\users\br\x-plane\sdk\cheaders\xplm\xplmscenery.h
+	"XPLMDefs.h"
+
+1215815272 c:\users\br\x-plane\sdk\cheaders\widgets\xpwidgets.h
+	"XPWidgetDefs.h"
+
+1215815272 c:\users\br\x-plane\sdk\cheaders\widgets\xpwidgetdefs.h
+	"XPLMDefs.h"
+
+1215815272 c:\users\br\x-plane\sdk\cheaders\widgets\xpstandardwidgets.h
+	"XPWidgetDefs.h"
+
+1215815272 c:\users\br\x-plane\sdk\cheaders\widgets\xpuigraphics.h
+	"XPWidgetDefs.h"
+
+1215815272 c:\users\br\x-plane\sdk\cheaders\widgets\xpwidgetutils.h
+	"XPWidgetDefs.h"
+
+1218033012 c:\users\br\desktop\xlua\lua-5.1.4\src\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1202747108 c:\users\br\desktop\xlua\lua-5.1.4\src\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<unistd.h>
+	<io.h>
+	<stdio.h>
+	<stdio.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<assert.h>
+	<math.h>
+	<unistd.h>
+
+1198760545 c:\users\br\desktop\xlua\lua-5.1.4\src\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1198760545 c:\users\br\desktop\xlua\lua-5.1.4\src\lualib.h
+	"lua.h"
+
+1262398433 c:\users\br\desktop\xlua\xluawidgetwindowwrapper.h
+	"XPWidgets.h"
+	"XPStandardWidgets.h"
+	"XPUIGraphics.h"
+	"XPWidgetDefs.h"
+	"XPWidgetUtils.h"
+	"X_STL.h"
+
+1245578105 c:\users\br\desktop\xlua\xluawidgetbasewrapper.h
+	"XPWidgets.h"
+	"XPStandardWidgets.h"
+	"XPUIGraphics.h"
+	"XPWidgetDefs.h"
+	"XPWidgetUtils.h"
+	"X_STL.h"
+	"XLuaWidgetWindowWrapper.h"
+
+1245578105 c:\users\br\desktop\xlua\xluacustomcommandwrapper.h
+	<Carbon/Carbon.h>
+	"X_STL.h"
+	"XDataRefCustom.h"
+	"XPLMMenus.h"
+	"XPLMDisplay.h"
+	"XPLMUtilities.h"
+	"XPLMDataAccess.h"
+	"XPLMProcessing.h"
+	"XPLMPlugin.h"
+	"XPLMPlanes.h"
+	"XPLMGraphics.h"
+	"XPLMScenery.h"
+	"XPWidgets.h"
+	"XPStandardWidgets.h"
+	"XPUIGraphics.h"
+	"XPWidgetDefs.h"
+	"XPWidgetUtils.h"
+
+1245578105 c:\users\br\desktop\xlua\xobjectv8.h
+	"XObject.h"
+	"XPluginResource.h"
+	"XMiscUtils.h"
+
+1245593607 c:\users\br\desktop\xlua\xobject.h
+	"X_STL.h"
+	<string>
+	<list>
+	<vector>
+	<algorithm>
+	<iostream>
+	<OpenGL/glu.h>
+	<OpenGL/glext.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"XPLMGraphics.h"
+	"XTexture.h"
+	"XGLShader.h"
+
+1245593693 c:\users\br\desktop\xlua\xtexture.h
+	"X_STL.h"
+	"XPluginResource.h"
+	"XPLMGraphics.h"
+	<OpenGL/glu.h>
+	<OpenGL/glext.h>
+	<AGL/agl.h>
+	<Carbon/Carbon.h>
+	<QuickTime/QuickTime.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1245578105 c:\users\br\desktop\xlua\xpluginresource.h
+	"XPLMUtilities.h"
+	"XMiscUtils.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<string>
+
+1245578105 c:\users\br\desktop\xlua\xmiscutils.h
+	"X_STL.h"
+
+1245578105 c:\users\br\desktop\xlua\xglshader.h
+	"GL/glu.h"
+	"GL/glext.h"
+	<OpenGL/glu.h>
+	<OpenGL/glext.h>
+	"X_STL.h"
+
+1265386770 c:\users\br\desktop\xlua\xlualuanamespacetables.h
+	"XLuaLuaNamespaceTables_gfx.h"
+
+1245578105 source:c:\users\br\desktop\xlua\xmiscutils.cpp
+	"XMiscUtils.h"
+
+1245653417 source:c:\users\br\desktop\xlua\xpluginresource.cpp
+	"XPluginResource.h"
+
+1245661396 c:\users\br\desktop\xlua\luagl.h
+	<windows.h>
+	<lualib.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<stdlib.h>
+
+1245649651 c:\users\br\desktop\xlua\luaglut.h
+	<windows.h>
+	<lualib.h>
+
+1245652517 source:c:\users\br\desktop\xlua\glee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GLee.h"
+	<Carbon/Carbon.h>
+
+1245652517 c:\users\br\desktop\xlua\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+1245661150 source:c:\users\br\desktop\xlua\luagl.c
+	<string.h>
+	<lauxlib.h>
+	"LuaGL.h"
+
+1245649166 source:c:\users\br\desktop\xlua\luaglut.c
+	<stdlib.h>
+	<lua.h>
+	<lauxlib.h>
+	<lualib.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"LuaGlut.h"
+
+1245657796 c:\users\br\desktop\xlua\luagl\luagl.h
+	<windows.h>
+	<lualib.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<stdlib.h>
+
+1266171210 source:c:\users\br\desktop\xlua\tgatools.cpp
+	"tgaTools.h"
+	<XPLMGraphics.h>
+
+1266154231 c:\users\br\desktop\xlua\tgatools.h
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<XPLMUtilities.h>
+
+1250578369 c:\users\br\desktop\xlua\xplugins_drm.h
+	"md5.h"
+	"XPLMUtilities.h"
+	<ctime>
+	<stdlib.h>
+	<XPLMPlanes.h>
+	<XPLMUtilities.h>
+	<openssl/md5.h>
+	<stdio.h>
+	<CoreFoundation/CoreFoundation.h>
+	<IOKit/IOKitLib.h>
+	<IOKit/network/IOEthernetInterface.h>
+	<IOKit/network/IONetworkInterface.h>
+	<IOKit/network/IOEthernetController.h>
+	"md5.h"
+	<stdio.h>
+	<string.h>
+	"XPLMUtilities.h"
+	<windows.h>
+	<iphlpapi.h>
+	<stdio.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<net/if.h>
+	<string.h>
+	"md5.h"
+
+1245908860 c:\users\br\desktop\xlua\md5.h
+
+1262398433 c:\users\br\desktop\xlua\xtrig.h
+	<math.h>
+
+1245908860 source:c:\users\br\desktop\xlua\md5.cpp
+	<memory.h>
+	"md5.h"
+
+1262398433 source:c:\users\br\desktop\xlua\xtrig.cpp
+	"XTrig.h"
+
+1236031531 c:\program files\codeblocks\mingw\curl-7.19.4\include\curl\curl.h
+	"curlver.h"
+	"curl/curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<types.h>
+	<time.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<sys/types.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1236031664 c:\program files\codeblocks\mingw\curl-7.19.4\include\curl\curlver.h
+
+1236031664 c:\program files\codeblocks\mingw\curl-7.19.4\include\curl\curlbuild.h
+	<sys/types.h>
+	<stdint.h>
+
+1219658558 c:\program files\codeblocks\mingw\curl-7.19.4\include\curl\curlrules.h
+
+1210628608 c:\program files\codeblocks\mingw\curl-7.19.4\include\curl\easy.h
+
+1211286136 c:\program files\codeblocks\mingw\curl-7.19.4\include\curl\multi.h
+	"curl.h"
+
+1232922391 c:\program files\codeblocks\mingw\curl-7.19.4\include\curl\typecheck-gcc.h
+
+1236035131 f:\dev\curl-7.19.4\include\curl\curl.h
+	"curlver.h"
+	"curl/curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<types.h>
+	<time.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<sys/types.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1236035264 f:\dev\curl-7.19.4\include\curl\curlver.h
+
+1236035264 f:\dev\curl-7.19.4\include\curl\curlbuild.h
+	<sys/types.h>
+	<stdint.h>
+
+1219662158 f:\dev\curl-7.19.4\include\curl\curlrules.h
+
+1210632208 f:\dev\curl-7.19.4\include\curl\easy.h
+
+1211289736 f:\dev\curl-7.19.4\include\curl\multi.h
+	"curl.h"
+
+1232925991 f:\dev\curl-7.19.4\include\curl\typecheck-gcc.h
+
+1234932724 f:\dev\c++\bullet-2.74\src\btbulletdynamicscommon.h
+	"btBulletCollisionCommon.h"
+	"BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h"
+	"BulletDynamics/Dynamics/btContinuousDynamicsWorld.h"
+	"BulletDynamics/Dynamics/btSimpleDynamicsWorld.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"BulletDynamics/ConstraintSolver/btPoint2PointConstraint.h"
+	"BulletDynamics/ConstraintSolver/btHingeConstraint.h"
+	"BulletDynamics/ConstraintSolver/btConeTwistConstraint.h"
+	"BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.h"
+	"BulletDynamics/ConstraintSolver/btSliderConstraint.h"
+	"BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.h"
+	"BulletDynamics/Vehicle/btRaycastVehicle.h"
+
+1234932724 f:\dev\c++\bullet-2.74\src\btbulletcollisioncommon.h
+	"BulletCollision/CollisionDispatch/btCollisionWorld.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+	"BulletCollision/CollisionShapes/btBoxShape.h"
+	"BulletCollision/CollisionShapes/btSphereShape.h"
+	"BulletCollision/CollisionShapes/btCapsuleShape.h"
+	"BulletCollision/CollisionShapes/btCylinderShape.h"
+	"BulletCollision/CollisionShapes/btConeShape.h"
+	"BulletCollision/CollisionShapes/btStaticPlaneShape.h"
+	"BulletCollision/CollisionShapes/btConvexHullShape.h"
+	"BulletCollision/CollisionShapes/btTriangleMesh.h"
+	"BulletCollision/CollisionShapes/btConvexTriangleMeshShape.h"
+	"BulletCollision/CollisionShapes/btBvhTriangleMeshShape.h"
+	"BulletCollision/CollisionShapes/btTriangleMeshShape.h"
+	"BulletCollision/CollisionShapes/btTriangleIndexVertexArray.h"
+	"BulletCollision/CollisionShapes/btCompoundShape.h"
+	"BulletCollision/CollisionShapes/btTetrahedronShape.h"
+	"BulletCollision/CollisionShapes/btEmptyShape.h"
+	"BulletCollision/CollisionShapes/btMultiSphereShape.h"
+	"BulletCollision/CollisionShapes/btUniformScalingShape.h"
+	"BulletCollision/CollisionDispatch/btSphereSphereCollisionAlgorithm.h"
+	"BulletCollision/CollisionDispatch/btDefaultCollisionConfiguration.h"
+	"BulletCollision/CollisionDispatch/btCollisionDispatcher.h"
+	"BulletCollision/BroadphaseCollision/btSimpleBroadphase.h"
+	"BulletCollision/BroadphaseCollision/btAxisSweep3.h"
+	"BulletCollision/BroadphaseCollision/btMultiSapBroadphase.h"
+	"BulletCollision/BroadphaseCollision/btDbvtBroadphase.h"
+	"LinearMath/btQuaternion.h"
+	"LinearMath/btTransform.h"
+	"LinearMath/btDefaultMotionState.h"
+	"LinearMath/btQuickprof.h"
+	"LinearMath/btIDebugDraw.h"
+
+1235719524 f:\dev\c++\bullet-2.74\src\bulletcollision\collisiondispatch\btcollisionworld.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"btCollisionObject.h"
+	"btCollisionDispatcher.h"
+	"BulletCollision/BroadphaseCollision/btOverlappingPairCache.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1228125718 f:\dev\c++\bullet-2.74\src\linearmath\btvector3.h
+	"btScalar.h"
+	"btScalar.h"
+	"btMinMax.h"
+
+1234245022 f:\dev\c++\bullet-2.74\src\linearmath\btscalar.h
+	<math.h>
+	<stdlib.h>
+	<cstdlib>
+	<cfloat>
+	<float.h>
+	<ppcintrinsics.h>
+	<emmintrin.h>
+	<assert.h>
+	<assert.h>
+	<assert.h>
+	<assert.h>
+
+1192624658 f:\dev\c++\bullet-2.74\src\linearmath\btminmax.h
+
+1233883852 f:\dev\c++\bullet-2.74\src\linearmath\bttransform.h
+	"btVector3.h"
+	"btMatrix3x3.h"
+
+1233883852 f:\dev\c++\bullet-2.74\src\linearmath\btmatrix3x3.h
+	"btScalar.h"
+	"btVector3.h"
+	"btQuaternion.h"
+
+1234245022 f:\dev\c++\bullet-2.74\src\linearmath\btquaternion.h
+	"btVector3.h"
+	"btQuadWord.h"
+
+1228048886 f:\dev\c++\bullet-2.74\src\linearmath\btquadword.h
+	"btScalar.h"
+	"btMinMax.h"
+	<altivec.h>
+
+1235998074 f:\dev\c++\bullet-2.74\src\bulletcollision\collisiondispatch\btcollisionobject.h
+	"LinearMath/btTransform.h"
+	"LinearMath/btMotionState.h"
+	"LinearMath/btAlignedAllocator.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1234932724 f:\dev\c++\bullet-2.74\src\linearmath\btmotionstate.h
+	"btTransform.h"
+
+1234932724 f:\dev\c++\bullet-2.74\src\linearmath\btalignedallocator.h
+	"btScalar.h"
+
+1234932724 f:\dev\c++\bullet-2.74\src\linearmath\btalignedobjectarray.h
+	"btScalar.h"
+	"btAlignedAllocator.h"
+	<memory.h>
+	<string.h>
+	<new>
+
+1215500930 f:\dev\c++\bullet-2.74\src\bulletcollision\collisiondispatch\btcollisiondispatcher.h
+	"BulletCollision/BroadphaseCollision/btDispatcher.h"
+	"BulletCollision/NarrowPhaseCollision/btPersistentManifold.h"
+	"BulletCollision/CollisionDispatch/btManifoldResult.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"btCollisionCreateFunc.h"
+
+1225949900 f:\dev\c++\bullet-2.74\src\bulletcollision\broadphasecollision\btdispatcher.h
+	"LinearMath/btScalar.h"
+
+1235998074 f:\dev\c++\bullet-2.74\src\bulletcollision\narrowphasecollision\btpersistentmanifold.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"btManifoldPoint.h"
+	"LinearMath/btAlignedAllocator.h"
+
+1234838336 f:\dev\c++\bullet-2.74\src\bulletcollision\narrowphasecollision\btmanifoldpoint.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransformUtil.h"
+
+1225949974 f:\dev\c++\bullet-2.74\src\linearmath\bttransformutil.h
+	"btTransform.h"
+
+1233825644 f:\dev\c++\bullet-2.74\src\bulletcollision\collisiondispatch\btmanifoldresult.h
+	"BulletCollision/NarrowPhaseCollision/btPersistentManifold.h"
+	"BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h"
+	"LinearMath/btTransform.h"
+
+1215693572 f:\dev\c++\bullet-2.74\src\bulletcollision\narrowphasecollision\btdiscretecollisiondetectorinterface.h
+	"LinearMath/btTransform.h"
+	"LinearMath/btVector3.h"
+
+1234155474 f:\dev\c++\bullet-2.74\src\bulletcollision\broadphasecollision\btbroadphaseproxy.h
+	"LinearMath/btScalar.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btAlignedAllocator.h"
+
+1234932724 f:\dev\c++\bullet-2.74\src\bulletcollision\collisiondispatch\btcollisioncreatefunc.h
+	"LinearMath/btAlignedObjectArray.h"
+
+1234932724 f:\dev\c++\bullet-2.74\src\bulletcollision\broadphasecollision\btoverlappingpaircache.h
+	"btBroadphaseInterface.h"
+	"btBroadphaseProxy.h"
+	"btOverlappingPairCallback.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1234342100 f:\dev\c++\bullet-2.74\src\bulletcollision\broadphasecollision\btbroadphaseinterface.h
+	"btBroadphaseProxy.h"
+	"LinearMath/btVector3.h"
+
+1219742652 f:\dev\c++\bullet-2.74\src\bulletcollision\broadphasecollision\btoverlappingpaircallback.h
+
+1234245022 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\btboxshape.h
+	"btPolyhedralConvexShape.h"
+	"btCollisionMargin.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btMinMax.h"
+
+1225072610 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\btpolyhedralconvexshape.h
+	"LinearMath/btMatrix3x3.h"
+	"LinearMath/btAabbUtil2.h"
+	"btConvexInternalShape.h"
+
+1225935692 f:\dev\c++\bullet-2.74\src\linearmath\btaabbutil2.h
+	"btTransform.h"
+	"btVector3.h"
+	"btMinMax.h"
+
+1225949900 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\btconvexinternalshape.h
+	"btConvexShape.h"
+
+1225949900 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\btconvexshape.h
+	"btCollisionShape.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"LinearMath/btMatrix3x3.h"
+	"btCollisionMargin.h"
+	"LinearMath/btAlignedAllocator.h"
+
+1225790892 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\btcollisionshape.h
+	"LinearMath/btTransform.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btMatrix3x3.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1166183492 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\btcollisionmargin.h
+
+1235998074 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\btsphereshape.h
+	"btConvexInternalShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1234932724 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\btcapsuleshape.h
+	"btConvexInternalShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1222667226 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\btcylindershape.h
+	"btBoxShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"LinearMath/btVector3.h"
+
+1222667226 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\btconeshape.h
+	"btConvexInternalShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1222667226 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\btstaticplaneshape.h
+	"btConcaveShape.h"
+
+1225935692 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\btconcaveshape.h
+	"btCollisionShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"btTriangleCallback.h"
+
+1219813312 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\bttrianglecallback.h
+	"LinearMath/btVector3.h"
+
+1226443988 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\btconvexhullshape.h
+	"btPolyhedralConvexShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1225339746 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\bttrianglemesh.h
+	"btTriangleIndexVertexArray.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1233835798 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\bttriangleindexvertexarray.h
+	"btStridingMeshInterface.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"LinearMath/btScalar.h"
+
+1225935692 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\btstridingmeshinterface.h
+	"LinearMath/btVector3.h"
+	"btTriangleCallback.h"
+	"btConcaveShape.h"
+
+1234932724 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\btconvextrianglemeshshape.h
+	"btPolyhedralConvexShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1222667226 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\btbvhtrianglemeshshape.h
+	"btTriangleMeshShape.h"
+	"btOptimizedBvh.h"
+	"LinearMath/btAlignedAllocator.h"
+
+1234245022 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\bttrianglemeshshape.h
+	"btConcaveShape.h"
+	"btStridingMeshInterface.h"
+
+1219813312 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\btoptimizedbvh.h
+	"BulletCollision/BroadphaseCollision/btQuantizedBvh.h"
+
+1234932724 f:\dev\c++\bullet-2.74\src\bulletcollision\broadphasecollision\btquantizedbvh.h
+	<stdio.h>
+	<stdlib.h>
+	"LinearMath/btVector3.h"
+	"LinearMath/btAlignedAllocator.h"
+	"LinearMath/btAlignedAllocator.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1228618660 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\btcompoundshape.h
+	"btCollisionShape.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"LinearMath/btMatrix3x3.h"
+	"btCollisionMargin.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1225072610 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\bttetrahedronshape.h
+	"btPolyhedralConvexShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1225155168 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\btemptyshape.h
+	"btConcaveShape.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"LinearMath/btMatrix3x3.h"
+	"btCollisionMargin.h"
+
+1222667226 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\btmultisphereshape.h
+	"btConvexInternalShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1222667226 f:\dev\c++\bullet-2.74\src\bulletcollision\collisionshapes\btuniformscalingshape.h
+	"btConvexShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1234932724 f:\dev\c++\bullet-2.74\src\bulletcollision\collisiondispatch\btspherespherecollisionalgorithm.h
+	"btActivatingCollisionAlgorithm.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"BulletCollision/CollisionDispatch/btCollisionCreateFunc.h"
+	"btCollisionDispatcher.h"
+
+1234932724 f:\dev\c++\bullet-2.74\src\bulletcollision\collisiondispatch\btactivatingcollisionalgorithm.h
+	"BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h"
+
+1211541782 f:\dev\c++\bullet-2.74\src\bulletcollision\broadphasecollision\btcollisionalgorithm.h
+	"LinearMath/btScalar.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1234144382 f:\dev\c++\bullet-2.74\src\bulletcollision\collisiondispatch\btdefaultcollisionconfiguration.h
+	"btCollisionConfiguration.h"
+
+1225706492 f:\dev\c++\bullet-2.74\src\bulletcollision\collisiondispatch\btcollisionconfiguration.h
+
+1234173060 f:\dev\c++\bullet-2.74\src\bulletcollision\broadphasecollision\btsimplebroadphase.h
+	"btOverlappingPairCache.h"
+
+1234245022 f:\dev\c++\bullet-2.74\src\bulletcollision\broadphasecollision\btaxissweep3.h
+	"LinearMath/btVector3.h"
+	"btOverlappingPairCache.h"
+	"btBroadphaseInterface.h"
+	"btBroadphaseProxy.h"
+	"btOverlappingPairCallback.h"
+	"btDbvtBroadphase.h"
+	<stdio.h>
+
+1234932724 f:\dev\c++\bullet-2.74\src\bulletcollision\broadphasecollision\btdbvtbroadphase.h
+	"BulletCollision/BroadphaseCollision/btDbvt.h"
+	"BulletCollision/BroadphaseCollision/btOverlappingPairCache.h"
+	"LinearMath/btQuickprof.h"
+
+1234932724 f:\dev\c++\bullet-2.74\src\bulletcollision\broadphasecollision\btdbvt.h
+	"LinearMath/btAlignedObjectArray.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"LinearMath/btAabbUtil2.h"
+	<emmintrin.h>
+	<memory.h>
+	<string.h>
+
+1226465534 f:\dev\c++\bullet-2.74\src\linearmath\btquickprof.h
+	"btScalar.h"
+	"LinearMath/btAlignedAllocator.h"
+	<new>
+	<sys/sys_time.h>
+	<sys/time_util.h>
+	<stdio.h>
+	<stdio.h>
+	<Xtl.h>
+	<windows.h>
+	<time.h>
+	<sys/time.h>
+
+1234932724 f:\dev\c++\bullet-2.74\src\bulletcollision\broadphasecollision\btmultisapbroadphase.h
+	"btBroadphaseInterface.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"btOverlappingPairCache.h"
+
+1234932724 f:\dev\c++\bullet-2.74\src\linearmath\btdefaultmotionstate.h
+
+1233813894 f:\dev\c++\bullet-2.74\src\linearmath\btidebugdraw.h
+	"btVector3.h"
+	"btTransform.h"
+
+1236047432 f:\dev\c++\bullet-2.74\src\bulletdynamics\dynamics\btdiscretedynamicsworld.h
+	"btDynamicsWorld.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1236032304 f:\dev\c++\bullet-2.74\src\bulletdynamics\dynamics\btdynamicsworld.h
+	"BulletCollision/CollisionDispatch/btCollisionWorld.h"
+	"BulletDynamics/ConstraintSolver/btContactSolverInfo.h"
+
+1233825644 f:\dev\c++\bullet-2.74\src\bulletdynamics\constraintsolver\btcontactsolverinfo.h
+
+1193901270 f:\dev\c++\bullet-2.74\src\bulletdynamics\dynamics\btcontinuousdynamicsworld.h
+	"btDiscreteDynamicsWorld.h"
+
+1234932724 f:\dev\c++\bullet-2.74\src\bulletdynamics\dynamics\btsimpledynamicsworld.h
+	"btDynamicsWorld.h"
+
+1233557642 f:\dev\c++\bullet-2.74\src\bulletdynamics\dynamics\btrigidbody.h
+	"LinearMath/btAlignedObjectArray.h"
+	"LinearMath/btTransform.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+
+1228048886 f:\dev\c++\bullet-2.74\src\bulletdynamics\constraintsolver\btpoint2pointconstraint.h
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+	"btTypedConstraint.h"
+
+1228125718 f:\dev\c++\bullet-2.74\src\bulletdynamics\constraintsolver\btjacobianentry.h
+	"LinearMath/btVector3.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+
+1236032304 f:\dev\c++\bullet-2.74\src\bulletdynamics\constraintsolver\bttypedconstraint.h
+	"LinearMath/btScalar.h"
+	"btSolverConstraint.h"
+
+1234932724 f:\dev\c++\bullet-2.74\src\bulletdynamics\constraintsolver\btsolverconstraint.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btMatrix3x3.h"
+	"btJacobianEntry.h"
+	"btSolverBody.h"
+
+1234932724 f:\dev\c++\bullet-2.74\src\bulletdynamics\constraintsolver\btsolverbody.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btMatrix3x3.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"LinearMath/btAlignedAllocator.h"
+	"LinearMath/btTransformUtil.h"
+
+1234168976 f:\dev\c++\bullet-2.74\src\bulletdynamics\constraintsolver\bthingeconstraint.h
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+	"btTypedConstraint.h"
+
+1235026406 f:\dev\c++\bullet-2.74\src\bulletdynamics\constraintsolver\btconetwistconstraint.h
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+	"btTypedConstraint.h"
+
+1230106428 f:\dev\c++\bullet-2.74\src\bulletdynamics\constraintsolver\btgeneric6dofconstraint.h
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+	"btTypedConstraint.h"
+
+1234932724 f:\dev\c++\bullet-2.74\src\bulletdynamics\constraintsolver\btsliderconstraint.h
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+	"btTypedConstraint.h"
+
+1235998074 f:\dev\c++\bullet-2.74\src\bulletdynamics\constraintsolver\btsequentialimpulseconstraintsolver.h
+	"btConstraintSolver.h"
+	"btContactConstraint.h"
+	"btSolverBody.h"
+	"btSolverConstraint.h"
+
+1210381222 f:\dev\c++\bullet-2.74\src\bulletdynamics\constraintsolver\btconstraintsolver.h
+	"LinearMath/btScalar.h"
+
+1225706492 f:\dev\c++\bullet-2.74\src\bulletdynamics\constraintsolver\btcontactconstraint.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btScalar.h"
+
+1236032304 f:\dev\c++\bullet-2.74\src\bulletdynamics\vehicle\btraycastvehicle.h
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"BulletDynamics/ConstraintSolver/btTypedConstraint.h"
+	"btVehicleRaycaster.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"btWheelInfo.h"
+	"BulletDynamics/Dynamics/btActionInterface.h"
+
+1234932724 f:\dev\c++\bullet-2.74\src\bulletdynamics\vehicle\btvehicleraycaster.h
+	"LinearMath/btVector3.h"
+
+1234932724 f:\dev\c++\bullet-2.74\src\bulletdynamics\vehicle\btwheelinfo.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+
+1250586702 f:\dev\c++\bullet-2.74\src\bulletdynamics\dynamics\btactioninterface.h
+	"LinearMath/btScalar.h"
+
+1233822044 f:\dev\c++\bullet-2.74\extras\bulletcolladaconverter\colladaconverter.h
+	"LinearMath/btTransform.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"LinearMath/btHashMap.h"
+
+1234929124 f:\dev\c++\bullet-2.74\src\linearmath\bthashmap.h
+	"btAlignedObjectArray.h"
+
+1231390404 f:\dev\c++\bullet-2.74\demos\opengl\gldebugdrawer.h
+	"LinearMath/btIDebugDraw.h"
+
+1231386804 source:f:\dev\c++\bullet-2.74\demos\opengl\gldebugdrawer.cpp
+	"GLDebugDrawer.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"BMF_Api.h"
+	<stdio.h>
+
+1159341078 f:\dev\c++\bullet-2.74\demos\opengl\bmf_api.h
+	"BMF_Fonts.h"
+
+1159325032 f:\dev\c++\bullet-2.74\demos\opengl\bmf_fonts.h
+	"BMF_Settings.h"
+
+1159325032 f:\dev\c++\bullet-2.74\demos\opengl\bmf_settings.h
+
+1250341356 f:\dev\c++\freealut-1.1.0\include\al\alut.h
+	<alc.h>
+	<al.h>
+	<OpenAL/alc.h>
+	<OpenAL/al.h>
+	<al.h>
+	<alc.h>
+
+1147080487 source:f:\dev\c++\freealut-1.1.0\src\alutbufferdata.c
+	"alutInternal.h"
+
+1147080487 f:\dev\c++\freealut-1.1.0\src\alutinternal.h
+	"config.h"
+	<stdlib.h>
+	<stdint.h>
+	<basetsd.h>
+	<AL/alut.h>
+
+1147080487 source:f:\dev\c++\freealut-1.1.0\src\alutcodec.c
+	"alutInternal.h"
+
+1147080487 source:f:\dev\c++\freealut-1.1.0\src\aluterror.c
+	"alutInternal.h"
+	<stdio.h>
+
+1147080487 source:f:\dev\c++\freealut-1.1.0\src\alutinit.c
+	"alutInternal.h"
+
+1250327405 source:f:\dev\c++\freealut-1.1.0\src\alutinputstream.c
+	"alutInternal.h"
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1147080487 source:f:\dev\c++\freealut-1.1.0\src\alutloader.c
+	"alutInternal.h"
+	<ctype.h>
+
+1147080487 source:f:\dev\c++\freealut-1.1.0\src\alutoutputstream.c
+	"alutInternal.h"
+	<string.h>
+
+1250327498 source:f:\dev\c++\freealut-1.1.0\src\alututil.c
+	"alutInternal.h"
+	<time.h>
+	<errno.h>
+	<unistd.h>
+	<windows.h>
+	<windows.h>
+
+1147080487 source:f:\dev\c++\freealut-1.1.0\src\alutversion.c
+	"alutInternal.h"
+
+1147352011 source:f:\dev\c++\freealut-1.1.0\src\alutwaveform.c
+	"alutInternal.h"
+	<math.h>
+	<string.h>
+
+1258618305 c:\users\br\desktop\lib test\xplugins_drm.h
+
+1260449888 c:\users\br\desktop\x-plugins-drm-lib\libs\xplugins_drm.h
+
+1166626528 c:\program files\codeblocks\mingw\pthreads\include\pthread.h
+	<windows.h>
+	"config.h"
+	<time.h>
+	<signal.h>
+	<setjmp.h>
+	<limits.h>
+	"need_errno.h"
+	<errno.h>
+	<sched.h>
+	<sys/types.h>
+
+1166626528 c:\program files\codeblocks\mingw\pthreads\include\sched.h
+	"need_errno.h"
+	<errno.h>
+	<sys/types.h>
+	<time.h>
+
+1265384875 c:\users\br\desktop\xlua\xlualuanamespacetables_gfx.h
+
+1262398433 c:\users\br\desktop\xlua\xlua_builtins_gfx.h
+	"tgaTools.h"
+	"xlua_utils_FboWrapper.h"
+
+1266007512 c:\users\br\desktop\xlua\xlua_builtins_gfx.cpp
+
+1261919452 c:\users\br\desktop\xlua\xlua_builtins_bullet.h
+
+1261988846 c:\users\br\desktop\xlua\xlua_builtins_bullet.cpp
+
+1262398433 c:\users\br\desktop\xlua\xlua_builtins_xp.h
+
+1266007863 c:\users\br\desktop\xlua\xlua_builtins.h
+	"xlua_builtins_bullet.h"
+	"xlua_builtins_camera.h"
+	"xlua_builtins_drm.h"
+	"xlua_builtins_fms.h"
+	"xlua_builtins_gfx.h"
+	"xlua_builtins_gui.h"
+	"xlua_builtins_http.h"
+	"xlua_builtins_nav.h"
+	"xlua_builtins_particles.h"
+	"xlua_builtins_sound.h"
+	"xlua_builtins_traffic.h"
+	"xlua_builtins_trig.h"
+	"xlua_builtins_xp.h"
+
+1266039041 c:\users\br\desktop\xlua\xlua_builtins_drm.h
+	<xplugins_drm.h>
+
+1266007893 c:\users\br\desktop\xlua\xlua_builtins.cpp
+	"xlua_builtins_bullet.cpp"
+	"xlua_builtins_camera.cpp"
+	"xlua_builtins_drm.cpp"
+	"xlua_builtins_fms.cpp"
+	"xlua_builtins_gfx.cpp"
+	"xlua_builtins_gui.cpp"
+	"xlua_builtins_http.cpp"
+	"xlua_builtins_nav.cpp"
+	"xlua_builtins_particles.cpp"
+	"xlua_builtins_sound.cpp"
+	"xlua_builtins_traffic.cpp"
+	"xlua_builtins_trig.cpp"
+	"xlua_builtins_xp.cpp"
+
+1267600846 c:\users\br\desktop\xlua\xlua_builtins_drm.cpp
+
+1266083938 c:\users\br\desktop\xlua\xlua_builtins_xp.cpp
+
+1261593677 c:\users\br\desktop\xlua\xlua_utils_fbowrapper.h
+
+1261888826 c:\users\br\desktop\xlua\xlua_utils_curlinterchange.h
+
+1261519911 c:\users\br\desktop\x-plugins-drm-lib\\xplugins_drm.h
+
+1262433927 c:\users\br\desktop\xlua\xlua_builtins_gui.h
+
+1261919453 c:\users\br\desktop\xlua\xlua_builtins_sound.h
+
+1215815272 c:\users\br\x-plane\sdk\cheaders\xplm\xplmcamera.h
+	"XPLMDefs.h"
+
+1265088986 c:\users\br\desktop\xlua\xlua_builtins_camera.h
+
+1262398433 c:\users\br\desktop\xlua\xlua_builtins_fms.h
+
+1262398433 c:\users\br\desktop\xlua\xlua_builtins_http.h
+
+1262398433 c:\users\br\desktop\xlua\xlua_builtins_nav.h
+
+1262433928 c:\users\br\desktop\xlua\xlua_builtins_particles.h
+
+1262398433 c:\users\br\desktop\xlua\xlua_builtins_traffic.h
+
+1262398433 c:\users\br\desktop\xlua\xlua_builtins_trig.h
+
+1262434038 c:\users\br\desktop\xlua\xparticleengine.h
+	"X_STL.h"
+	"XTrig.h"
+	"XDataRef.h"
+	"XPLMGraphics.h"
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	"XParticle.h"
+
+1267583818 c:\users\br\desktop\xlua\xdataref.h
+	"XPLMDisplay.h"
+	"XPLMUtilities.h"
+	"XPLMDataAccess.h"
+	"XPLMProcessing.h"
+	"XPLMGraphics.h"
+	"XPLMMenus.h"
+	"XPStandardWidgets.h"
+	"XPWidgets.h"
+	"XPWidgetDefs.h"
+	"XPWidgetUtils.h"
+	<string>
+	<list>
+	<vector>
+	<algorithm>
+	<iostream>
+
+1265089019 c:\users\br\desktop\xlua\xparticle.h
+	"X_STL.h"
+	"XDataRef.h"
+
+1262398433 c:\users\br\desktop\xlua\xlua_builtins_camera.cpp
+
+1262398433 c:\users\br\desktop\xlua\xlua_builtins_fms.cpp
+
+1262433927 c:\users\br\desktop\xlua\xlua_builtins_gui.cpp
+
+1266008371 c:\users\br\desktop\xlua\xlua_builtins_http.cpp
+
+1262398433 c:\users\br\desktop\xlua\xlua_builtins_nav.cpp
+
+1266098660 c:\users\br\desktop\xlua\xlua_builtins_particles.cpp
+
+1261919453 c:\users\br\desktop\xlua\xlua_builtins_sound.cpp
+
+1262398433 c:\users\br\desktop\xlua\xlua_builtins_traffic.cpp
+
+1262398433 c:\users\br\desktop\xlua\xlua_builtins_trig.cpp
+
+1267405529 source:c:\users\br\desktop\xlua\xparticle.cpp
+	"XParticle.h"
+
+1267405599 source:c:\users\br\desktop\xlua\xparticleengine.cpp
+	"XParticleEngine.h"
+
+1235897042 source:c:\users\br\desktop\xlua\cpu.cpp
+	"pch.h"
+	"cpu.h"
+	"misc.h"
+	<algorithm>
+	<signal.h>
+	<setjmp.h>
+	<emmintrin.h>
+
+1235897040 c:\users\br\desktop\xlua\pch.h
+	"cpu.h"
+	"config.h"
+	"simple.h"
+	"secblock.h"
+	"misc.h"
+	"smartptr.h"
+
+1235897040 c:\users\br\desktop\xlua\cpu.h
+	"config.h"
+	<emmintrin.h>
+
+1237045682 c:\users\br\desktop\xlua\config.h
+	<malloc.h>
+
+1237045682 c:\users\br\desktop\xlua\secblock.h
+	"config.h"
+	"misc.h"
+	<assert.h>
+	<malloc.h>
+	<stdlib.h>
+
+1237045680 c:\users\br\desktop\xlua\misc.h
+	"cryptlib.h"
+	"smartptr.h"
+	<string.h>
+	<stdlib.h>
+	<intrin.h>
+	<mem.h>
+	<byteswap.h>
+
+1237045682 c:\users\br\desktop\xlua\cryptlib.h
+	"config.h"
+	"stdcpp.h"
+
+1235897040 c:\users\br\desktop\xlua\stdcpp.h
+	<stddef.h>
+	<assert.h>
+	<limits.h>
+	<memory>
+	<string>
+	<exception>
+	<typeinfo>
+	<string.h>
+	<algorithm>
+	<map>
+	<vector>
+
+1235897042 c:\users\br\desktop\xlua\smartptr.h
+	"config.h"
+	<algorithm>
+
+1237045680 c:\users\br\desktop\xlua\simple.h
+	"cryptlib.h"
+	"misc.h"
+
+1267600846 source:c:\users\br\desktop\xlua\aes.cpp
+	"AES.h"
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<iostream>
+
+1267583818 c:\users\br\desktop\xlua\aes.h
+	<sys/types.h>
+	<sys/stat.h>
+	<openssl/aes.h>
+
+1267515441 c:\users\br\desktop\xlua\aes_console\aes.h
+	<sys/types.h>
+	<sys/stat.h>
+	<openssl/aes.h>
+
+1267524045 source:c:\users\br\desktop\xlua\aes_console\aes.cpp
+	"AES.h"
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<iostream>
+
+1278498890 source:c:\users\br\desktop\gizmo\aes.cpp
+	"AES.h"
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<iostream>
+
+1290249599 c:\users\br\desktop\gizmo\aes.h
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<openssl/aes.h>
+
+1278498890 source:c:\users\br\desktop\gizmo\glee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GLee.h"
+	<Carbon/Carbon.h>
+
+1278498890 c:\users\br\desktop\gizmo\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+1278498891 source:c:\users\br\desktop\gizmo\luagl.c
+	<string.h>
+	<lauxlib.h>
+	"LuaGL.h"
+
+1278498892 c:\users\br\desktop\gizmo\lua-5.1.4\src\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1278498892 c:\users\br\desktop\gizmo\lua-5.1.4\src\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1278498892 c:\users\br\desktop\gizmo\lua-5.1.4\src\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<unistd.h>
+	<io.h>
+	<stdio.h>
+	<stdio.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<assert.h>
+	<math.h>
+	<unistd.h>
+
+1278498891 c:\users\br\desktop\gizmo\luagl.h
+	<windows.h>
+	<lualib.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<stdlib.h>
+
+1278498892 c:\users\br\desktop\gizmo\lua-5.1.4\src\lualib.h
+	"lua.h"
+
+1278498891 source:c:\users\br\desktop\gizmo\xdatarefcustom.cpp
+	"XDataRefCustom.h"
+
+1290249599 c:\users\br\desktop\gizmo\xdatarefcustom.h
+	"XPLMDataAccess.h"
+	"X_STL.h"
+	"dmalloc.h"
+
+1278498891 c:\users\br\desktop\gizmo\x_stl.h
+	<string>
+	<list>
+	<vector>
+	<algorithm>
+	<iostream>
+	<map>
+
+1289316758 source:c:\users\br\desktop\gizmo\xluabullethooks.cpp
+	"XLuaDefineSwitches.h"
+	"XLuaBulletHooks.h"
+
+1278495293 al
+	"gizmo_global_datarefs.h"
+
+1289754578 c:\users\br\desktop\gizmo\xluadefineswitches.h
+
+1278495290 er
+	"XLuaXPlaneHooks.h"
+	"xlua_builtins.cpp"
+	"XLuaDefineSwitches.h"
+	<curl/curl.h>
+	<pthread.h>
+	"XTrig.h"
+	"GLee.h"
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	"AES.h"
+	<xplugins_drm.h>
+	"md5.h"
+	<openssl/md5.h>
+	<Carbon/Carbon.h>
+	<dir.h>
+	<windows.h>
+	<sys/types.h>
+	<sys/stat.h>
+	"X_STL.h"
+	"XDataRefCustom.h"
+	<XPLMCamera.h>
+	<XPLMDataAccess.h>
+	<XPLMDisplay.h>
+	<XPLMGraphics.h>
+	<XPLMMenus.h>
+	<XPLMPlanes.h>
+	<XPLMPlugin.h>
+	<XPLMProcessing.h>
+	<XPLMScenery.h>
+	<XPLMUtilities.h>
+	<XPStandardWidgets.h>
+	<XPUIGraphics.h>
+	<XPWidgets.h>
+	<XPWidgetDefs.h>
+	<XPWidgetUtils.h>
+	"xlua_utils_CurlInterchange.h"
+	"dmalloc.h"
+	<lua.h>
+	<lauxlib.h>
+	<lualib.h>
+	"LuaGL.h"
+	"xlua_builtins.h"
+	"XLuaWidgetWindowWrapper.h"
+	"XLuaWidgetBaseWrapper.h"
+	"XLuaCustomCommandWrapper.h"
+	"XLuaBulletHooks.h"
+	"XLuaOpenAL.h"
+	"dmalloc.h"
+	"XObjectV8.h"
+	"Gizmo_TerrainMap.h"
+	"XParticleEngine.h"
+	"XLuaLuaNamespaceTables.h"
+	<math.h>
+	"xlua_builtins_bullet.h"
+	"xlua_builtins_camera.h"
+	"xlua_builtins_drm.h"
+	"xlua_builtins_fms.h"
+	"xlua_builtins_gfx.h"
+	"xlua_builtins_gui.h"
+	"xlua_builtins_http.h"
+	"xlua_builtins_nav.h"
+	"xlua_builtins_particles.h"
+	"xlua_builtins_sound.h"
+	"xlua_builtins_traffic.h"
+	"xlua_builtins_trig.h"
+	"xlua_builtins_xp.h"
+	<xplugins_drm.h>
+	"tgaTools.h"
+	"xlua_utils_FboWrapper.h"
+	"XPWidgets.h"
+	"XPStandardWidgets.h"
+	"XPUIGraphics.h"
+	"XPWidgetDefs.h"
+	"XPWidgetUtils.h"
+	"X_STL.h"
+	"XLuaLuaNamespaceTables_gfx.h"
+	"xlua_builtins_bullet.cpp"
+	"xlua_builtins_camera.cpp"
+	"xlua_builtins_drm.cpp"
+	"xlua_builtins_fms.cpp"
+	"xlua_builtins_gfx.cpp"
+	"xlua_builtins_gui.cpp"
+	"xlua_builtins_http.cpp"
+	"xlua_builtins_nav.cpp"
+	"xlua_builtins_particles.cpp"
+	"xlua_builtins_sound.cpp"
+	"xlua_builtins_traffic.cpp"
+	"xlua_builtins_trig.cpp"
+	"xlua_builtins_xp.cpp"
+	"XParticleEngine.h"
+	"XTrig.h"
+	"tgaTools.h"
+	<XPLMGraphics.h>
+
+1278498891 c:\users\br\desktop\gizmo\xluabullethooks.h
+	"XLuaDefineSwitches.h"
+	<btBulletDynamicsCommon.h>
+	<GLDebugDrawer.h>
+	"XPLMUtilities.h"
+	"dmalloc.h"
+	<stdio.h>
+
+1278702494 source:c:\users\br\desktop\gizmo\xluaopenal.cpp
+	"XLuaDefineSwitches.h"
+	"XLuaOpenAL.h"
+
+1289316758 c:\users\br\desktop\gizmo\xluaopenal.h
+	"XLuaDefineSwitches.h"
+	<cstdlib>
+	<stdio.h>
+	"XPLMUtilities.h"
+	<OpenAL/al.h>
+	<OpenAL/alc.h>
+	<al.h>
+	<alc.h>
+	<AL/alut.h>
+	<AL/al.h>
+	<AL/alc.h>
+	<AL/alext.h>
+	<AL/alut.h>
+	"dmalloc.h"
+
+1289486963 source:c:\users\br\desktop\gizmo\xmiscutils.cpp
+	"XMiscUtils.h"
+
+1289486964 c:\users\br\desktop\gizmo\xmiscutils.h
+	"X_STL.h"
+
+1278495291 source:c:\users\br\desktop\gizmo\xparticle.cpp
+	"XParticle.h"
+	"XParticle.h"
+
+1290249599 c:\users\br\desktop\gizmo\xparticle.h
+	"X_STL.h"
+	"XDataRef.h"
+	<stdio.h>
+	<string.h>
+
+1278498891 c:\users\br\desktop\gizmo\xdataref.h
+	"XPLMDisplay.h"
+	"XPLMUtilities.h"
+	"XPLMDataAccess.h"
+	"XPLMProcessing.h"
+	"XPLMGraphics.h"
+	"XPLMMenus.h"
+	"XPStandardWidgets.h"
+	"XPWidgets.h"
+	"XPWidgetDefs.h"
+	"XPWidgetUtils.h"
+	<string>
+	<list>
+	<vector>
+	<algorithm>
+	<iostream>
+
+1289487427 source:c:\users\br\desktop\gizmo\xpluginresource.cpp
+	"XPluginResource.h"
+
+1289487352 c:\users\br\desktop\gizmo\xpluginresource.h
+	"XPLMUtilities.h"
+	"XMiscUtils.h"
+	"StringTools.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<string>
+
+1278498893 source:c:\users\br\desktop\gizmo\md5.cpp
+	<memory.h>
+	"md5.h"
+
+1278498893 c:\users\br\desktop\gizmo\md5.h
+
+1289486963 source:c:\users\br\desktop\gizmo\xluaxplanehooks.cpp
+	"XLuaXPlaneHooks.h"
+	"XGLShader.cpp"
+	"xlua_builtins.cpp"
+	"Gizmo_Logo.h"
+
+1289486963 c:\users\br\desktop\gizmo\xluaxplanehooks.h
+	"XLuaDefineSwitches.h"
+	"GLee.h"
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	"LuaGL.h"
+	"dmalloc.h"
+	<lua.h>
+	<lauxlib.h>
+	<lualib.h>
+	<curl/curl.h>
+	<pthread.h>
+	"AES.h"
+	<xplugins_drm.h>
+	"md5.h"
+	<openssl/md5.h>
+	<Carbon/Carbon.h>
+	<dir.h>
+	<windows.h>
+	<sys/types.h>
+	<sys/stat.h>
+	"X_STL.h"
+	<XPLMCamera.h>
+	<XPLMDataAccess.h>
+	<XPLMDisplay.h>
+	<XPLMGraphics.h>
+	<XPLMMenus.h>
+	<XPLMPlanes.h>
+	<XPLMPlugin.h>
+	<XPLMProcessing.h>
+	<XPLMScenery.h>
+	<XPLMUtilities.h>
+	<XPStandardWidgets.h>
+	<XPUIGraphics.h>
+	<XPWidgets.h>
+	<XPWidgetDefs.h>
+	<XPWidgetUtils.h>
+	"gizmo_global_datarefs.h"
+	"XTrig.h"
+	"XDataRefCustom.h"
+	"XLuaBulletHooks.h"
+	"XLuaOpenAL.h"
+	"XAC3DLoader.h"
+	"xlua_utils_CurlInterchange.h"
+	"XParticleEngine.h"
+	"XGLShader.h"
+	"XLuaWidgetWindowWrapper.h"
+	"XLuaWidgetBaseWrapper.h"
+	"XLuaCustomCommandWrapper.h"
+	"Gizmo_TerrainMap.h"
+	"xlua_builtins.h"
+	"XLuaLuaNamespaceTables.h"
+
+1278495291 bal_datarefs.h"
+
+1278633773 c:\users\br\desktop\gizmo\xtrig.h
+	"X_STL.h"
+	<math.h>
+
+1278630173 
+
+1278542168 c:\users\br\desktop\xpl-drm-lib\drm lib - gizmo - 10.3.5\xplugins_drm.h
+
+1279223579 c:\users\br\desktop\gizmo\xlua_utils_curlinterchange.h
+
+1289440167 c:\users\br\desktop\gizmo\gizmo_global_datarefs.h
+
+1289116229 c:\users\br\desktop\gizmo\xlua_builtins.h
+	"gizmo_builtins_acf.h"
+	"xlua_builtins_bullet.h"
+	"gizmo_builtins_base64.h"
+	"xlua_builtins_camera.h"
+	"xlua_builtins_drm.h"
+	"xlua_builtins_fms.h"
+	"xlua_builtins_gfx.h"
+	"xlua_builtins_gui.h"
+	"xlua_builtins_http.h"
+	"xlua_builtins_nav.h"
+	"xlua_builtins_particles.h"
+	"gizmo_builtins_shaders.h"
+	"xlua_builtins_sound.h"
+	"gizmo_builtins_timer.h"
+	"xlua_builtins_traffic.h"
+	"xlua_builtins_trig.h"
+	"xlua_builtins_xp.h"
+
+1278633773 c:\users\br\desktop\gizmo\xlua_builtins_bullet.h
+
+1289440167 c:\users\br\desktop\gizmo\xlua_builtins_camera.h
+
+1289440167 c:\users\br\desktop\gizmo\xlua_builtins_drm.h
+	<xplugins_drm.h>
+
+1289440167 c:\users\br\desktop\gizmo\xlua_builtins_fms.h
+
+1289440167 c:\users\br\desktop\gizmo\xlua_builtins_gfx.h
+	"tgaTools.h"
+	"xlua_utils_FboWrapper.h"
+
+1282134917 c:\users\br\desktop\gizmo\tgatools.h
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<XPLMUtilities.h>
+
+1278498893 c:\users\br\desktop\gizmo\xlua_utils_fbowrapper.h
+
+1289440167 c:\users\br\desktop\gizmo\xlua_builtins_gui.h
+
+1289440167 c:\users\br\desktop\gizmo\xlua_builtins_http.h
+
+1289440167 c:\users\br\desktop\gizmo\xlua_builtins_nav.h
+
+1289440167 c:\users\br\desktop\gizmo\xlua_builtins_particles.h
+
+1289440167 c:\users\br\desktop\gizmo\xlua_builtins_sound.h
+
+1289440167 c:\users\br\desktop\gizmo\xlua_builtins_traffic.h
+
+1289440167 c:\users\br\desktop\gizmo\xlua_builtins_trig.h
+
+1282134917 c:\users\br\desktop\gizmo\xlua_builtins_xp.h
+
+1289269630 c:\users\br\desktop\gizmo\xluawidgetwindowwrapper.h
+	"XPWidgets.h"
+	"XPStandardWidgets.h"
+	"XPUIGraphics.h"
+	"XPWidgetDefs.h"
+	"XPWidgetUtils.h"
+	"X_STL.h"
+
+1289269630 c:\users\br\desktop\gizmo\xluawidgetbasewrapper.h
+	"XPWidgets.h"
+	"XPStandardWidgets.h"
+	"XPUIGraphics.h"
+	"XPWidgetDefs.h"
+	"XPWidgetUtils.h"
+	"X_STL.h"
+	"XLuaWidgetWindowWrapper.h"
+
+1278498891 c:\users\br\desktop\gizmo\xluacustomcommandwrapper.h
+	<Carbon/Carbon.h>
+	"X_STL.h"
+	"XDataRefCustom.h"
+	"XPLMMenus.h"
+	"XPLMDisplay.h"
+	"XPLMUtilities.h"
+	"XPLMDataAccess.h"
+	"XPLMProcessing.h"
+	"XPLMPlugin.h"
+	"XPLMPlanes.h"
+	"XPLMGraphics.h"
+	"XPLMScenery.h"
+	"XPWidgets.h"
+	"XPStandardWidgets.h"
+	"XPUIGraphics.h"
+	"XPWidgetDefs.h"
+	"XPWidgetUtils.h"
+
+1278495291 c:\users\br\desktop\gizmo\xobjectv8.h
+	"XObject.h"
+	"XPluginResource.h"
+	"XMiscUtils.h"
+
+1278495291 c:\users\br\desktop\gizmo\xobject.h
+	"X_STL.h"
+	<string>
+	<list>
+	<vector>
+	<algorithm>
+	<iostream>
+	<OpenGL/glu.h>
+	<OpenGL/glext.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"XPLMGraphics.h"
+	"XTexture.h"
+	"XGLShader.h"
+
+1278495291 c:\users\br\desktop\gizmo\xtexture.h
+	"X_STL.h"
+	"XPluginResource.h"
+	"XPLMGraphics.h"
+	<OpenGL/glu.h>
+	<OpenGL/glext.h>
+	<AGL/agl.h>
+	<Carbon/Carbon.h>
+	<QuickTime/QuickTime.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1278889271 c:\users\br\desktop\gizmo\xglshader.h
+	"GL/glu.h"
+	"GL/glext.h"
+	<OpenGL/glu.h>
+	<OpenGL/glext.h>
+
+1290249599 c:\users\br\desktop\gizmo\gizmo_terrainmap.h
+	"GLee.h"
+	<GL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	"GLee.h"
+	<GLUT/glut.h>
+	"GLee.h"
+	<GL/glut.h>
+	<stdio.h>
+	"X_STL.h"
+	"XTrig.h"
+	"XPLMMenus.h"
+	"XPLMDisplay.h"
+	"XPLMUtilities.h"
+	"XPLMDataAccess.h"
+	"XPLMProcessing.h"
+	"XPLMPlugin.h"
+	"XPLMPlanes.h"
+	"XPLMGraphics.h"
+	"XPLMScenery.h"
+	"XPLMNavigation.h"
+	"XPWidgets.h"
+	"XPStandardWidgets.h"
+	"XPUIGraphics.h"
+	"XPWidgetDefs.h"
+	"XPWidgetUtils.h"
+	<pthread.h>
+
+1215815272 c:\users\br\x-plane\sdk\cheaders\xplm\xplmnavigation.h
+	"XPLMDefs.h"
+
+1282134917 c:\users\br\desktop\gizmo\xparticleengine.h
+	"X_STL.h"
+	"XTrig.h"
+	"XDataRef.h"
+	"XPLMGraphics.h"
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	"XParticle.h"
+
+1289440166 c:\users\br\desktop\gizmo\xlualuanamespacetables.h
+	"XLuaLuaNamespaceTables_gfx.h"
+
+1289440166 c:\users\br\desktop\gizmo\xlualuanamespacetables_gfx.h
+
+1289440167 c:\users\br\desktop\gizmo\xlua_builtins.cpp
+	"gizmo_builtins_acf.cpp"
+	"xlua_builtins_bullet.cpp"
+	"gizmo_builtins_base64.cpp"
+	"xlua_builtins_camera.cpp"
+	"xlua_builtins_drm.cpp"
+	"xlua_builtins_fms.cpp"
+	"xlua_builtins_gfx.cpp"
+	"xlua_builtins_gui.cpp"
+	"xlua_builtins_http.cpp"
+	"xlua_builtins_nav.cpp"
+	"xlua_builtins_particles.cpp"
+	"gizmo_builtins_shaders.cpp"
+	"xlua_builtins_sound.cpp"
+	"gizmo_builtins_timer.cpp"
+	"xlua_builtins_traffic.cpp"
+	"xlua_builtins_trig.cpp"
+	"xlua_builtins_xp.cpp"
+
+1289440167 c:\users\br\desktop\gizmo\xlua_builtins_bullet.cpp
+
+1289440167 c:\users\br\desktop\gizmo\xlua_builtins_camera.cpp
+
+1289486964 c:\users\br\desktop\gizmo\xlua_builtins_drm.cpp
+
+1289440167 c:\users\br\desktop\gizmo\xlua_builtins_fms.cpp
+
+1289486964 c:\users\br\desktop\gizmo\xlua_builtins_gfx.cpp
+
+1289486964 c:\users\br\desktop\gizmo\xlua_builtins_gui.cpp
+
+1289440167 c:\users\br\desktop\gizmo\xlua_builtins_http.cpp
+
+1289440167 c:\users\br\desktop\gizmo\xlua_builtins_nav.cpp
+
+1289448792 c:\users\br\desktop\gizmo\xlua_builtins_particles.cpp
+
+1289440167 c:\users\br\desktop\gizmo\xlua_builtins_sound.cpp
+
+1289440167 c:\users\br\desktop\gizmo\xlua_builtins_traffic.cpp
+
+1289440167 c:\users\br\desktop\gizmo\xlua_builtins_trig.cpp
+
+1289486964 c:\users\br\desktop\gizmo\xlua_builtins_xp.cpp
+
+1289448792 source:c:\users\br\desktop\gizmo\xparticleengine.cpp
+	"XParticleEngine.h"
+
+1278633773 source:c:\users\br\desktop\gizmo\xtrig.cpp
+	"XTrig.h"
+
+1289316759 source:c:\users\br\desktop\gizmo\tgatools.cpp
+	"tgaTools.h"
+	<XPLMGraphics.h>
+
+1289440166 source:c:\users\br\desktop\gizmo\gizmo_terrainmap.cpp
+	"Gizmo_TerrainMap.h"
+
+1289440167 c:\users\br\desktop\gizmo\gizmo_builtins_acf.h
+
+1278889271 c:\users\br\desktop\gizmo\gizmo_builtins_shaders.h
+
+1278889271 c:\users\br\desktop\gizmo\xglshader.cpp
+
+1289440167 c:\users\br\desktop\gizmo\gizmo_builtins_acf.cpp
+
+1278889271 c:\users\br\desktop\gizmo\gizmo_builtins_shaders.cpp
+
+1289116229 c:\users\br\desktop\gizmo\gizmo_builtins_base64.h
+
+1289116229 c:\users\br\desktop\gizmo\gizmo_builtins_timer.h
+
+1289116229 c:\users\br\desktop\gizmo\gizmo_builtins_base64.cpp
+
+1289116229 c:\users\br\desktop\gizmo\gizmo_builtins_timer.cpp
+
+1289486964 source:c:\users\br\desktop\gizmo\b64.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1289316758 c:\users\br\desktop\gizmo\gizmo_logo.h
+
+1289486963 source:c:\users\br\desktop\gizmo\stringtools.cpp
+	"StringTools.h"
+
+1289486963 c:\users\br\desktop\gizmo\stringtools.h
+	"X_STL.h"
+
+1289486963 c:\users\br\desktop\gizmo\xac3dloader.h
+	"X_STL.h"
+	"stdio.h"
+	"StringTools.h"
+
+1294933716 source:c:\users\br\desktop\gizmo\plugin_source\aes.cpp
+	"AES.h"
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<iostream>
+
+1294933716 c:\users\br\desktop\gizmo\plugin_source\aes.h
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<openssl/aes.h>
+
+1294933716 source:c:\users\br\desktop\gizmo\plugin_source\glee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GLee.h"
+	<Carbon/Carbon.h>
+
+1294933716 c:\users\br\desktop\gizmo\plugin_source\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+1294937316 source:c:\users\br\desktop\gizmo\plugin_source\gizmo_terrainmap.cpp
+	"Gizmo_TerrainMap.h"
+
+1294937316 c:\users\br\desktop\gizmo\plugin_source\gizmo_terrainmap.h
+	"GLee.h"
+	<GL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	"GLee.h"
+	<GLUT/glut.h>
+	"GLee.h"
+	<GL/glut.h>
+	<stdio.h>
+	"X_STL.h"
+	"XTrig.h"
+	"XPLMMenus.h"
+	"XPLMDisplay.h"
+	"XPLMUtilities.h"
+	"XPLMDataAccess.h"
+	"XPLMProcessing.h"
+	"XPLMPlugin.h"
+	"XPLMPlanes.h"
+	"XPLMGraphics.h"
+	"XPLMScenery.h"
+	"XPLMNavigation.h"
+	"XPWidgets.h"
+	"XPStandardWidgets.h"
+	"XPUIGraphics.h"
+	"XPWidgetDefs.h"
+	"XPWidgetUtils.h"
+	<pthread.h>
+
+1294933717 c:\users\br\desktop\gizmo\plugin_source\x_stl.h
+	<string>
+	<list>
+	<vector>
+	<algorithm>
+	<iostream>
+	<map>
+
+1294933717 c:\users\br\desktop\gizmo\plugin_source\xtrig.h
+	"X_STL.h"
+	<math.h>
+
+1295132570 source:c:\users\br\desktop\gizmo\plugin_source\luagl.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<lua.h>
+	<lauxlib.h>
+	"luagl.h"
+	"luagl_util.h"
+
+1294933755 c:\users\br\desktop\gizmo\third_party_source\lua-5.1.4\src\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1294933755 c:\users\br\desktop\gizmo\third_party_source\lua-5.1.4\src\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<unistd.h>
+	<io.h>
+	<stdio.h>
+	<stdio.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<assert.h>
+	<math.h>
+	<unistd.h>
+
+1294933755 c:\users\br\desktop\gizmo\third_party_source\lua-5.1.4\src\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1295132570 c:\users\br\desktop\gizmo\plugin_source\luagl.h
+	<lualib.h>
+
+1294933755 c:\users\br\desktop\gizmo\third_party_source\lua-5.1.4\src\lualib.h
+	"lua.h"
+
+1295132570 c:\users\br\desktop\gizmo\plugin_source\luagl_util.h
+
+1295132570 source:c:\users\br\desktop\gizmo\plugin_source\xdatarefcustom.cpp
+	"XDataRefCustom.h"
+
+1295132570 c:\users\br\desktop\gizmo\plugin_source\xdatarefcustom.h
+	<XPLMCamera.h>
+	<XPLMDataAccess.h>
+	<XPLMDisplay.h>
+	<XPLMGraphics.h>
+	<XPLMMenus.h>
+	<XPLMPlanes.h>
+	<XPLMPlugin.h>
+	<XPLMProcessing.h>
+	<XPLMScenery.h>
+	<XPLMUtilities.h>
+	<XPStandardWidgets.h>
+	<XPUIGraphics.h>
+	<XPWidgets.h>
+	<XPWidgetDefs.h>
+	<XPWidgetUtils.h>
+	"X_STL.h"
+	"dmalloc.h"
+
+1294982224 source:c:\users\br\desktop\gizmo\plugin_source\xluabullethooks.cpp
+	"XLuaDefineSwitches.h"
+	"XLuaBulletHooks.h"
+
+1294937316 c:\users\br\desktop\gizmo\plugin_source\xluadefineswitches.h
+
+1294982603 c:\users\br\desktop\gizmo\plugin_source\xluabullethooks.h
+	"XLuaDefineSwitches.h"
+	"btBulletDynamicsCommon.h"
+	"GLDebugDrawer.h"
+	"XPLMUtilities.h"
+	"dmalloc.h"
+	<stdio.h>
+
+1294933741 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\btbulletdynamicscommon.h
+	"btBulletCollisionCommon.h"
+	"BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h"
+	"BulletDynamics/Dynamics/btContinuousDynamicsWorld.h"
+	"BulletDynamics/Dynamics/btSimpleDynamicsWorld.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"BulletDynamics/ConstraintSolver/btPoint2PointConstraint.h"
+	"BulletDynamics/ConstraintSolver/btHingeConstraint.h"
+	"BulletDynamics/ConstraintSolver/btConeTwistConstraint.h"
+	"BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.h"
+	"BulletDynamics/ConstraintSolver/btSliderConstraint.h"
+	"BulletDynamics/ConstraintSolver/btGeneric6DofSpringConstraint.h"
+	"BulletDynamics/ConstraintSolver/btUniversalConstraint.h"
+	"BulletDynamics/ConstraintSolver/btHinge2Constraint.h"
+	"BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.h"
+	"BulletDynamics/Vehicle/btRaycastVehicle.h"
+
+1294933741 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\btbulletcollisioncommon.h
+	"BulletCollision/CollisionDispatch/btCollisionWorld.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+	"BulletCollision/CollisionShapes/btBoxShape.h"
+	"BulletCollision/CollisionShapes/btSphereShape.h"
+	"BulletCollision/CollisionShapes/btCapsuleShape.h"
+	"BulletCollision/CollisionShapes/btCylinderShape.h"
+	"BulletCollision/CollisionShapes/btConeShape.h"
+	"BulletCollision/CollisionShapes/btStaticPlaneShape.h"
+	"BulletCollision/CollisionShapes/btConvexHullShape.h"
+	"BulletCollision/CollisionShapes/btTriangleMesh.h"
+	"BulletCollision/CollisionShapes/btConvexTriangleMeshShape.h"
+	"BulletCollision/CollisionShapes/btBvhTriangleMeshShape.h"
+	"BulletCollision/CollisionShapes/btTriangleMeshShape.h"
+	"BulletCollision/CollisionShapes/btTriangleIndexVertexArray.h"
+	"BulletCollision/CollisionShapes/btCompoundShape.h"
+	"BulletCollision/CollisionShapes/btTetrahedronShape.h"
+	"BulletCollision/CollisionShapes/btEmptyShape.h"
+	"BulletCollision/CollisionShapes/btMultiSphereShape.h"
+	"BulletCollision/CollisionShapes/btUniformScalingShape.h"
+	"BulletCollision/CollisionDispatch/btSphereSphereCollisionAlgorithm.h"
+	"BulletCollision/CollisionDispatch/btDefaultCollisionConfiguration.h"
+	"BulletCollision/CollisionDispatch/btCollisionDispatcher.h"
+	"BulletCollision/BroadphaseCollision/btSimpleBroadphase.h"
+	"BulletCollision/BroadphaseCollision/btAxisSweep3.h"
+	"BulletCollision/BroadphaseCollision/btMultiSapBroadphase.h"
+	"BulletCollision/BroadphaseCollision/btDbvtBroadphase.h"
+	"LinearMath/btQuaternion.h"
+	"LinearMath/btTransform.h"
+	"LinearMath/btDefaultMotionState.h"
+	"LinearMath/btQuickprof.h"
+	"LinearMath/btIDebugDraw.h"
+	"LinearMath/btSerializer.h"
+
+1294933735 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisiondispatch\btcollisionworld.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"btCollisionObject.h"
+	"btCollisionDispatcher.h"
+	"BulletCollision/BroadphaseCollision/btOverlappingPairCache.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1294933741 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\linearmath\btvector3.h
+	"btScalar.h"
+	"btMinMax.h"
+
+1294933741 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\linearmath\btscalar.h
+	<math.h>
+	<stdlib.h>
+	<cstdlib>
+	<cfloat>
+	<float.h>
+	<ppcintrinsics.h>
+	<emmintrin.h>
+	<assert.h>
+	<assert.h>
+	<spu_printf.h>
+	<assert.h>
+	<emmintrin.h>
+	<assert.h>
+	<assert.h>
+
+1294933741 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\linearmath\btminmax.h
+	"LinearMath/btScalar.h"
+
+1294933741 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\linearmath\bttransform.h
+	"btMatrix3x3.h"
+
+1294933741 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\linearmath\btmatrix3x3.h
+	"btVector3.h"
+	"btQuaternion.h"
+
+1294933741 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\linearmath\btquaternion.h
+	"btVector3.h"
+	"btQuadWord.h"
+
+1294933741 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\linearmath\btquadword.h
+	"btScalar.h"
+	"btMinMax.h"
+	<altivec.h>
+
+1294933735 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisiondispatch\btcollisionobject.h
+	"LinearMath/btTransform.h"
+	"LinearMath/btMotionState.h"
+	"LinearMath/btAlignedAllocator.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1294933741 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\linearmath\btmotionstate.h
+	"btTransform.h"
+
+1294933740 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\linearmath\btalignedallocator.h
+	"btScalar.h"
+
+1294933740 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\linearmath\btalignedobjectarray.h
+	"btScalar.h"
+	"btAlignedAllocator.h"
+	<memory.h>
+	<string.h>
+	<new>
+
+1294933735 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisiondispatch\btcollisiondispatcher.h
+	"BulletCollision/BroadphaseCollision/btDispatcher.h"
+	"BulletCollision/NarrowPhaseCollision/btPersistentManifold.h"
+	"BulletCollision/CollisionDispatch/btManifoldResult.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"btCollisionCreateFunc.h"
+
+1294933735 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\broadphasecollision\btdispatcher.h
+	"LinearMath/btScalar.h"
+
+1294933738 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\narrowphasecollision\btpersistentmanifold.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"btManifoldPoint.h"
+	"LinearMath/btAlignedAllocator.h"
+
+1294933737 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\narrowphasecollision\btmanifoldpoint.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransformUtil.h"
+
+1294933741 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\linearmath\bttransformutil.h
+	"btTransform.h"
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisiondispatch\btmanifoldresult.h
+	"BulletCollision/NarrowPhaseCollision/btPersistentManifold.h"
+	"BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h"
+	"LinearMath/btTransform.h"
+
+1294933737 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\narrowphasecollision\btdiscretecollisiondetectorinterface.h
+	"LinearMath/btTransform.h"
+	"LinearMath/btVector3.h"
+
+1294933735 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\broadphasecollision\btbroadphaseproxy.h
+	"LinearMath/btScalar.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btAlignedAllocator.h"
+
+1294933735 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisiondispatch\btcollisioncreatefunc.h
+	"LinearMath/btAlignedObjectArray.h"
+
+1294933735 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\broadphasecollision\btoverlappingpaircache.h
+	"btBroadphaseInterface.h"
+	"btBroadphaseProxy.h"
+	"btOverlappingPairCallback.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1294933735 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\broadphasecollision\btbroadphaseinterface.h
+	"btBroadphaseProxy.h"
+	"LinearMath/btVector3.h"
+
+1294933735 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\broadphasecollision\btoverlappingpaircallback.h
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\btboxshape.h
+	"btPolyhedralConvexShape.h"
+	"btCollisionMargin.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btMinMax.h"
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\btpolyhedralconvexshape.h
+	"LinearMath/btMatrix3x3.h"
+	"btConvexInternalShape.h"
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\btconvexinternalshape.h
+	"btConvexShape.h"
+	"LinearMath/btAabbUtil2.h"
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\btconvexshape.h
+	"btCollisionShape.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"LinearMath/btMatrix3x3.h"
+	"btCollisionMargin.h"
+	"LinearMath/btAlignedAllocator.h"
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\btcollisionshape.h
+	"LinearMath/btTransform.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btMatrix3x3.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\btcollisionmargin.h
+
+1294933740 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\linearmath\btaabbutil2.h
+	"btTransform.h"
+	"btVector3.h"
+	"btMinMax.h"
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\btsphereshape.h
+	"btConvexInternalShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\btcapsuleshape.h
+	"btConvexInternalShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\btcylindershape.h
+	"btBoxShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"LinearMath/btVector3.h"
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\btconeshape.h
+	"btConvexInternalShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\btstaticplaneshape.h
+	"btConcaveShape.h"
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\btconcaveshape.h
+	"btCollisionShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"btTriangleCallback.h"
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\bttrianglecallback.h
+	"LinearMath/btVector3.h"
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\btconvexhullshape.h
+	"btPolyhedralConvexShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1294933737 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\bttrianglemesh.h
+	"btTriangleIndexVertexArray.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1294933737 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\bttriangleindexvertexarray.h
+	"btStridingMeshInterface.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"LinearMath/btScalar.h"
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\btstridingmeshinterface.h
+	"LinearMath/btVector3.h"
+	"btTriangleCallback.h"
+	"btConcaveShape.h"
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\btconvextrianglemeshshape.h
+	"btPolyhedralConvexShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\btbvhtrianglemeshshape.h
+	"btTriangleMeshShape.h"
+	"btOptimizedBvh.h"
+	"LinearMath/btAlignedAllocator.h"
+	"btTriangleInfoMap.h"
+
+1294933737 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\bttrianglemeshshape.h
+	"btConcaveShape.h"
+	"btStridingMeshInterface.h"
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\btoptimizedbvh.h
+	"BulletCollision/BroadphaseCollision/btQuantizedBvh.h"
+
+1294933735 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\broadphasecollision\btquantizedbvh.h
+	<stdio.h>
+	<stdlib.h>
+	"LinearMath/btVector3.h"
+	"LinearMath/btAlignedAllocator.h"
+	"LinearMath/btAlignedAllocator.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1294933737 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\bttriangleinfomap.h
+	"LinearMath/btHashMap.h"
+	"LinearMath/btSerializer.h"
+
+1294933741 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\linearmath\bthashmap.h
+	"btAlignedObjectArray.h"
+
+1294933741 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\linearmath\btserializer.h
+	"btScalar.h"
+	"btStackAlloc.h"
+	"btHashMap.h"
+	<memory.h>
+	<string.h>
+
+1294933741 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\linearmath\btstackalloc.h
+	"btScalar.h"
+	"btAlignedAllocator.h"
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\btcompoundshape.h
+	"btCollisionShape.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"LinearMath/btMatrix3x3.h"
+	"btCollisionMargin.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\bttetrahedronshape.h
+	"btPolyhedralConvexShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\btemptyshape.h
+	"btConcaveShape.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"LinearMath/btMatrix3x3.h"
+	"btCollisionMargin.h"
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\btmultisphereshape.h
+	"btConvexInternalShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"LinearMath/btAabbUtil2.h"
+
+1294933737 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisionshapes\btuniformscalingshape.h
+	"btConvexShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisiondispatch\btspherespherecollisionalgorithm.h
+	"btActivatingCollisionAlgorithm.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"BulletCollision/CollisionDispatch/btCollisionCreateFunc.h"
+	"btCollisionDispatcher.h"
+
+1294933735 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisiondispatch\btactivatingcollisionalgorithm.h
+	"BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h"
+
+1294933735 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\broadphasecollision\btcollisionalgorithm.h
+	"LinearMath/btScalar.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1294933736 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisiondispatch\btdefaultcollisionconfiguration.h
+	"btCollisionConfiguration.h"
+
+1294933735 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\collisiondispatch\btcollisionconfiguration.h
+
+1294933735 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\broadphasecollision\btsimplebroadphase.h
+	"btOverlappingPairCache.h"
+
+1294933735 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\broadphasecollision\btaxissweep3.h
+	"LinearMath/btVector3.h"
+	"btOverlappingPairCache.h"
+	"btBroadphaseInterface.h"
+	"btBroadphaseProxy.h"
+	"btOverlappingPairCallback.h"
+	"btDbvtBroadphase.h"
+	<stdio.h>
+
+1294933735 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\broadphasecollision\btdbvtbroadphase.h
+	"BulletCollision/BroadphaseCollision/btDbvt.h"
+	"BulletCollision/BroadphaseCollision/btOverlappingPairCache.h"
+	"LinearMath/btQuickprof.h"
+
+1294933735 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\broadphasecollision\btdbvt.h
+	"LinearMath/btAlignedObjectArray.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"LinearMath/btAabbUtil2.h"
+	<emmintrin.h>
+	<memory.h>
+	<string.h>
+
+1294933741 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\linearmath\btquickprof.h
+	<stdio.h>
+	"btScalar.h"
+	"btAlignedAllocator.h"
+	<new>
+
+1294933735 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletcollision\broadphasecollision\btmultisapbroadphase.h
+	"btBroadphaseInterface.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"btOverlappingPairCache.h"
+
+1294933740 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\linearmath\btdefaultmotionstate.h
+	"btMotionState.h"
+
+1294933741 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\linearmath\btidebugdraw.h
+	"btVector3.h"
+	"btTransform.h"
+
+1294933739 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\dynamics\btdiscretedynamicsworld.h
+	"btDynamicsWorld.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1294933739 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\dynamics\btdynamicsworld.h
+	"BulletCollision/CollisionDispatch/btCollisionWorld.h"
+	"BulletDynamics/ConstraintSolver/btContactSolverInfo.h"
+
+1294933738 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\constraintsolver\btcontactsolverinfo.h
+
+1294933739 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\dynamics\btcontinuousdynamicsworld.h
+	"btDiscreteDynamicsWorld.h"
+
+1294933739 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\dynamics\btsimpledynamicsworld.h
+	"btDynamicsWorld.h"
+
+1294933739 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\dynamics\btrigidbody.h
+	"LinearMath/btAlignedObjectArray.h"
+	"LinearMath/btTransform.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+
+1294933738 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\constraintsolver\btpoint2pointconstraint.h
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+	"btTypedConstraint.h"
+
+1294933738 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\constraintsolver\btjacobianentry.h
+	"LinearMath/btVector3.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+
+1294933739 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\constraintsolver\bttypedconstraint.h
+	"LinearMath/btScalar.h"
+	"btSolverConstraint.h"
+	"BulletCollision/NarrowPhaseCollision/btPersistentManifold.h"
+
+1294933739 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\constraintsolver\btsolverconstraint.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btMatrix3x3.h"
+	"btJacobianEntry.h"
+	"btSolverBody.h"
+
+1294933739 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\constraintsolver\btsolverbody.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btMatrix3x3.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"LinearMath/btAlignedAllocator.h"
+	"LinearMath/btTransformUtil.h"
+
+1294933738 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\constraintsolver\bthingeconstraint.h
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+	"btTypedConstraint.h"
+
+1294933738 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\constraintsolver\btconetwistconstraint.h
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+	"btTypedConstraint.h"
+
+1294933738 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\constraintsolver\btgeneric6dofconstraint.h
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+	"btTypedConstraint.h"
+
+1294933738 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\constraintsolver\btsliderconstraint.h
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+	"btTypedConstraint.h"
+
+1294933738 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\constraintsolver\btgeneric6dofspringconstraint.h
+	"LinearMath/btVector3.h"
+	"btTypedConstraint.h"
+	"btGeneric6DofConstraint.h"
+
+1294933739 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\constraintsolver\btuniversalconstraint.h
+	"LinearMath/btVector3.h"
+	"btTypedConstraint.h"
+	"btGeneric6DofConstraint.h"
+
+1294933738 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\constraintsolver\bthinge2constraint.h
+	"LinearMath/btVector3.h"
+	"btTypedConstraint.h"
+	"btGeneric6DofSpringConstraint.h"
+
+1294933738 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\constraintsolver\btsequentialimpulseconstraintsolver.h
+	"btConstraintSolver.h"
+	"btContactConstraint.h"
+	"btSolverBody.h"
+	"btSolverConstraint.h"
+	"btTypedConstraint.h"
+	"BulletCollision/NarrowPhaseCollision/btManifoldPoint.h"
+
+1294933738 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\constraintsolver\btconstraintsolver.h
+	"LinearMath/btScalar.h"
+
+1294933738 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\constraintsolver\btcontactconstraint.h
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+	"btTypedConstraint.h"
+	"BulletCollision/NarrowPhaseCollision/btPersistentManifold.h"
+
+1294933739 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\vehicle\btraycastvehicle.h
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"BulletDynamics/ConstraintSolver/btTypedConstraint.h"
+	"btVehicleRaycaster.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"btWheelInfo.h"
+	"BulletDynamics/Dynamics/btActionInterface.h"
+
+1294933739 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\vehicle\btvehicleraycaster.h
+	"LinearMath/btVector3.h"
+
+1294933739 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\vehicle\btwheelinfo.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+
+1294933739 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\src\bulletdynamics\dynamics\btactioninterface.h
+	"LinearMath/btScalar.h"
+	"btRigidBody.h"
+
+1299048514 c:\users\br\desktop\gizmo\third_party_source\bullet-2.77\demos\opengl\gldebugdrawer.h
+	"LinearMath/btIDebugDraw.h"
+
+1294940667 source:c:\users\br\desktop\gizmo\plugin_source\xluaxplanehooks.cpp
+	"XLuaXPlaneHooks.h"
+	"XGLShader.cpp"
+	"xlua_builtins.cpp"
+
+1294937316 c:\users\br\desktop\gizmo\plugin_source\xluaxplanehooks.h
+	"XLuaDefineSwitches.h"
+	"X_STL.h"
+	"gizmo_firmware.h"
+	"gizmo_internal_io_jail.h"
+	"Gizmo_Logo.h_data"
+	"xa_logo.h_data"
+	"lua_logo.h_data"
+	"ToolTrayIconsBuiltIn.h_data"
+	"GLee.h"
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	"luagl.h"
+	"dmalloc.h"
+	<lua.h>
+	<lauxlib.h>
+	<lualib.h>
+	<curl/curl.h>
+	<pthread.h>
+	"AES.h"
+	"md5.h"
+	<openssl/md5.h>
+	<Carbon/Carbon.h>
+	<dir.h>
+	<windows.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<XPLMCamera.h>
+	<XPLMDataAccess.h>
+	<XPLMDisplay.h>
+	<XPLMGraphics.h>
+	<XPLMMenus.h>
+	<XPLMPlanes.h>
+	<XPLMPlugin.h>
+	<XPLMProcessing.h>
+	<XPLMScenery.h>
+	<XPLMUtilities.h>
+	<XPStandardWidgets.h>
+	<XPUIGraphics.h>
+	<XPWidgets.h>
+	<XPWidgetDefs.h>
+	<XPWidgetUtils.h>
+	"gizmo_global_datarefs.h"
+	"XTrig.h"
+	"XDataRefCustom.h"
+	"XLuaBulletHooks.h"
+	"XLuaOpenAL.h"
+	"xlua_utils_CurlInterchange.h"
+	"XParticleEngine.h"
+	"XGLShader.h"
+	"XLuaWidgetWindowWrapper.h"
+	"XLuaWidgetBaseWrapper.h"
+	"XLuaCustomCommandWrapper.h"
+	"Gizmo_TerrainMap.h"
+	"xlua_builtins.h"
+	"XLuaLuaNamespaceTables.h"
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\gizmo_firmware.h
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\gizmo_internal_io_jail.h
+
+1294933716 c:\users\br\desktop\gizmo\plugin_source\gizmo_logo.h_data
+
+1294933717 c:\users\br\desktop\gizmo\plugin_source\xa_logo.h_data
+
+1294933717 c:\users\br\desktop\gizmo\plugin_source\lua_logo.h_data
+
+1294933716 c:\users\br\desktop\gizmo\plugin_source\tooltrayiconsbuiltin.h_data
+
+1294933746 c:\users\br\desktop\gizmo\third_party_source\curl-7.19.7\include\curl\curl.h
+	"curlver.h"
+	"curl/curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<sys/types.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1294933746 c:\users\br\desktop\gizmo\third_party_source\curl-7.19.7\include\curl\curlver.h
+
+1294933746 c:\users\br\desktop\gizmo\third_party_source\curl-7.19.7\include\curl\curlbuild.h
+	<sys/types.h>
+	<sys/socket.h>
+
+1294933746 c:\users\br\desktop\gizmo\third_party_source\curl-7.19.7\include\curl\curlrules.h
+
+1294933746 c:\users\br\desktop\gizmo\third_party_source\curl-7.19.7\include\curl\easy.h
+
+1294933746 c:\users\br\desktop\gizmo\third_party_source\curl-7.19.7\include\curl\multi.h
+	"curl.h"
+
+1294933746 c:\users\br\desktop\gizmo\third_party_source\curl-7.19.7\include\curl\typecheck-gcc.h
+
+1294933717 c:\users\br\desktop\gizmo\plugin_source\md5.h
+
+1305780817 c:\users\br\desktop\gizmo\plugin_source\gizmo_global_datarefs.h
+
+1294938846 c:\users\br\desktop\gizmo\plugin_source\xluaopenal.h
+	"XLuaDefineSwitches.h"
+	<cstdlib>
+	<stdio.h>
+	"XPLMUtilities.h"
+	<OpenAL/al.h>
+	<OpenAL/alc.h>
+	<al.h>
+	<alc.h>
+	<AL/al.h>
+	<AL/alc.h>
+	<AL/alext.h>
+	<AL/alut.h>
+	"dmalloc.h"
+
+1295015391 c:\users\br\desktop\gizmo\plugin_source\xlua_utils_curlinterchange.h
+
+1294933717 c:\users\br\desktop\gizmo\plugin_source\xparticleengine.h
+	"X_STL.h"
+	"XTrig.h"
+	"XPLMGraphics.h"
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	"XParticle.h"
+
+1294933716 c:\users\br\desktop\gizmo\plugin_source\xparticle.h
+	"X_STL.h"
+	<stdio.h>
+	<string.h>
+
+1294933716 c:\users\br\desktop\gizmo\plugin_source\xglshader.h
+	"GL/glu.h"
+	"GL/glext.h"
+	<OpenGL/glu.h>
+	<OpenGL/glext.h>
+
+1295015391 c:\users\br\desktop\gizmo\plugin_source\xluawidgetwindowwrapper.h
+	"XPWidgets.h"
+	"XPStandardWidgets.h"
+	"XPUIGraphics.h"
+	"XPWidgetDefs.h"
+	"XPWidgetUtils.h"
+	"X_STL.h"
+
+1295015391 c:\users\br\desktop\gizmo\plugin_source\xluawidgetbasewrapper.h
+	"XPWidgets.h"
+	"XPStandardWidgets.h"
+	"XPUIGraphics.h"
+	"XPWidgetDefs.h"
+	"XPWidgetUtils.h"
+	"X_STL.h"
+	"XLuaWidgetWindowWrapper.h"
+
+1295015391 c:\users\br\desktop\gizmo\plugin_source\xluacustomcommandwrapper.h
+	<Carbon/Carbon.h>
+	"X_STL.h"
+	"XDataRefCustom.h"
+	"XPLMMenus.h"
+	"XPLMDisplay.h"
+	"XPLMUtilities.h"
+	"XPLMDataAccess.h"
+	"XPLMProcessing.h"
+	"XPLMPlugin.h"
+	"XPLMPlanes.h"
+	"XPLMGraphics.h"
+	"XPLMScenery.h"
+	"XPWidgets.h"
+	"XPStandardWidgets.h"
+	"XPUIGraphics.h"
+	"XPWidgetDefs.h"
+	"XPWidgetUtils.h"
+
+1303644657 c:\users\br\desktop\gizmo\plugin_source\xlua_builtins.h
+	"gizmo_lua_api/api_acf.h"
+	"gizmo_lua_api/api_base64.h"
+	"gizmo_lua_api/api_camera.h"
+	"gizmo_lua_api/api_fmc.h"
+	"gizmo_lua_api/api_gizmo.h"
+	"gizmo_lua_api/api_gfx.h"
+	"gizmo_lua_api/api_gui.h"
+	"gizmo_lua_api/api_hash.h"
+	"gizmo_lua_api/api_http.h"
+	"gizmo_lua_api/api_logging.h"
+	"gizmo_lua_api/api_matrix.h"
+	"gizmo_lua_api/api_memcache.h"
+	"gizmo_lua_api/api_menu.h"
+	"gizmo_lua_api/api_mouse.h"
+	"gizmo_lua_api/api_nav.h"
+	"gizmo_lua_api/api_particles.h"
+	"gizmo_lua_api/api_physics.h"
+	"gizmo_lua_api/api_plugins.h"
+	"gizmo_lua_api/api_shaders.h"
+	"gizmo_lua_api/api_sound.h"
+	"gizmo_lua_api/api_timer.h"
+	"gizmo_lua_api/api_traffic.h"
+	"gizmo_lua_api/api_trig.h"
+	"gizmo_lua_api/api_utils.h"
+	"gizmo_lua_api/api_xp.h"
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\gizmo_builtins_acf.h
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\gizmo_builtins_base64.h
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\xlua_builtins_camera.h
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\gizmo_builtins_fmc.h
+
+1295007896 c:\users\br\desktop\gizmo\plugin_source\xlua_builtins_gfx.h
+	"tgaTools.h"
+	"xlua_utils_FboWrapper.h"
+
+1294933717 c:\users\br\desktop\gizmo\plugin_source\tgatools.h
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<XPLMUtilities.h>
+
+1295077989 c:\users\br\desktop\gizmo\plugin_source\xlua_utils_fbowrapper.h
+	"GLee.h"
+	<GL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	"GLee.h"
+	<GLUT/glut.h>
+	"GLee.h"
+	<GL/glut.h>
+	<stdio.h>
+	"X_STL.h"
+	<XPLMCamera.h>
+	<XPLMDataAccess.h>
+	<XPLMDisplay.h>
+	<XPLMGraphics.h>
+	<XPLMMenus.h>
+	<XPLMPlanes.h>
+	<XPLMPlugin.h>
+	<XPLMProcessing.h>
+	<XPLMScenery.h>
+	<XPLMUtilities.h>
+	<XPStandardWidgets.h>
+	<XPUIGraphics.h>
+	<XPWidgets.h>
+	<XPWidgetDefs.h>
+	<XPWidgetUtils.h>
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\xlua_builtins_gui.h
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\xlua_builtins_http.h
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\xlua_builtins_nav.h
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\xlua_builtins_particles.h
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\xlua_builtins_bullet.h
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\gizmo_builtins_plugins.h
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\gizmo_builtins_shaders.h
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\xlua_builtins_sound.h
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\gizmo_builtins_timer.h
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\xlua_builtins_traffic.h
+
+1294937318 c:\users\br\desktop\gizmo\plugin_source\xlua_builtins_trig.h
+
+1294937318 c:\users\br\desktop\gizmo\plugin_source\xlua_builtins_xp.h
+
+1294937316 c:\users\br\desktop\gizmo\plugin_source\xlualuanamespacetables.h
+	"XLuaLuaNamespaceTables_gfx.h"
+
+1294940385 c:\users\br\desktop\gizmo\plugin_source\xlualuanamespacetables_gfx.h
+
+1294933716 c:\users\br\desktop\gizmo\plugin_source\xglshader.cpp
+
+1303644657 c:\users\br\desktop\gizmo\plugin_source\xlua_builtins.cpp
+	"gizmo_lua_api/api_acf.cpp"
+	"gizmo_lua_api/api_base64.cpp"
+	"gizmo_lua_api/api_camera.cpp"
+	"gizmo_lua_api/api_fmc.cpp"
+	"gizmo_lua_api/api_gizmo.cpp"
+	"gizmo_lua_api/api_gfx.cpp"
+	"gizmo_lua_api/api_gui.cpp"
+	"gizmo_lua_api/api_hash.cpp"
+	"gizmo_lua_api/api_http.cpp"
+	"gizmo_lua_api/api_logging.cpp"
+	"gizmo_lua_api/api_matrix.cpp"
+	"gizmo_lua_api/api_memcache.cpp"
+	"gizmo_lua_api/api_menu.cpp"
+	"gizmo_lua_api/api_mouse.cpp"
+	"gizmo_lua_api/api_nav.cpp"
+	"gizmo_lua_api/api_particles.cpp"
+	"gizmo_lua_api/api_physics.cpp"
+	"gizmo_lua_api/api_plugins.cpp"
+	"gizmo_lua_api/api_shaders.cpp"
+	"gizmo_lua_api/api_sound.cpp"
+	"gizmo_lua_api/api_timer.cpp"
+	"gizmo_lua_api/api_traffic.cpp"
+	"gizmo_lua_api/api_trig.cpp"
+	"gizmo_lua_api/api_utils.cpp"
+	"gizmo_lua_api/api_xp.cpp"
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\gizmo_builtins_acf.cpp
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\gizmo_builtins_base64.cpp
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\xlua_builtins_camera.cpp
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\gizmo_builtins_fmc.cpp
+
+1295007896 c:\users\br\desktop\gizmo\plugin_source\xlua_builtins_gfx.cpp
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\xlua_builtins_gui.cpp
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\xlua_builtins_http.cpp
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\xlua_builtins_nav.cpp
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\xlua_builtins_particles.cpp
+
+1294982274 c:\users\br\desktop\gizmo\plugin_source\xlua_builtins_bullet.cpp
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\gizmo_builtins_plugins.cpp
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\gizmo_builtins_shaders.cpp
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\xlua_builtins_sound.cpp
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\gizmo_builtins_timer.cpp
+
+1294937317 c:\users\br\desktop\gizmo\plugin_source\xlua_builtins_traffic.cpp
+
+1294937318 c:\users\br\desktop\gizmo\plugin_source\xlua_builtins_trig.cpp
+
+1294937318 c:\users\br\desktop\gizmo\plugin_source\xlua_builtins_xp.cpp
+
+1295132570 source:c:\users\br\desktop\gizmo\plugin_source\xmiscutils.cpp
+	"XMiscUtils.h"
+	<string.h>
+
+1294933716 c:\users\br\desktop\gizmo\plugin_source\xmiscutils.h
+	"X_STL.h"
+
+1294933716 source:c:\users\br\desktop\gizmo\plugin_source\xparticleengine.cpp
+	"XParticleEngine.h"
+
+1296361445 source:c:\users\br\desktop\gizmo\plugin_source\xtrig.cpp
+	"XTrig.h"
+
+1294933717 source:c:\users\br\desktop\gizmo\plugin_source\b64.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1294933717 source:c:\users\br\desktop\gizmo\plugin_source\md5.cpp
+	<memory.h>
+	"md5.h"
+
+1294933717 source:c:\users\br\desktop\gizmo\plugin_source\tgatools.cpp
+	"tgaTools.h"
+	<XPLMGraphics.h>
+
+1295132570 source:c:\users\br\desktop\gizmo\plugin_source\luagl_util.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<lua.h>
+	<lauxlib.h>
+	"luagl_util.h"
+
+1296361445 source:c:\users\br\desktop\gizmo\plugin_source\bulletphysicshooks.cpp
+	"GlobalDefs.h"
+	"BulletPhysicsHooks.h"
+
+1306317439 c:\users\br\desktop\gizmo\plugin_source\globaldefs.h
+
+1306317438 c:\users\br\desktop\gizmo\plugin_source\bulletphysicshooks.h
+	"GlobalDefs.h"
+	"btBulletDynamicsCommon.h"
+	"GLDebugDrawer.h"
+	"XPLMUtilities.h"
+	"dmalloc.h"
+	<stdio.h>
+
+1303644657 source:c:\users\br\desktop\gizmo\plugin_source\terrainmap.cpp
+	"TerrainMap.h"
+
+1303644657 c:\users\br\desktop\gizmo\plugin_source\terrainmap.h
+	"GLee.h"
+	<GL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	"GLee.h"
+	<GLUT/glut.h>
+	"GLee.h"
+	<GL/glut.h>
+	<stdio.h>
+	"X_STL.h"
+	"XTrig.h"
+	"XPLMMenus.h"
+	"XPLMDisplay.h"
+	"XPLMUtilities.h"
+	"XPLMDataAccess.h"
+	"XPLMProcessing.h"
+	"XPLMPlugin.h"
+	"XPLMPlanes.h"
+	"XPLMGraphics.h"
+	"XPLMScenery.h"
+	"XPLMNavigation.h"
+	"XPWidgets.h"
+	"XPStandardWidgets.h"
+	"XPUIGraphics.h"
+	"XPWidgetDefs.h"
+	"XPWidgetUtils.h"
+	<pthread.h>
+
+1306317439 source:c:\users\br\desktop\gizmo\plugin_source\xplanehooks.cpp
+	"XPlaneHooks.h"
+	"XGLShader.cpp"
+	"xlua_builtins.cpp"
+	<shellapi.h>
+
+1306317439 c:\users\br\desktop\gizmo\plugin_source\xplanehooks.h
+	"GlobalDefs.h"
+	"X_STL.h"
+	"StringTools.h"
+	"Gizmo_Logo.h_data"
+	"xa_logo.h_data"
+	"lua_logo.h_data"
+	"ToolTrayIconsBuiltin.h_data"
+	"gfw_IO_Jail.h"
+	"GLee.h"
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	"luagl.h"
+	"luaglu.h"
+	"dmalloc.h"
+	<lua.h>
+	<lauxlib.h>
+	<lualib.h>
+	<curl/curl.h>
+	<pthread.h>
+	"md5.h"
+	<openssl/md5.h>
+	<Carbon/Carbon.h>
+	<dir.h>
+	<shellapi.h>
+	<windows.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<XPLMCamera.h>
+	<XPLMDataAccess.h>
+	<XPLMDisplay.h>
+	<XPLMGraphics.h>
+	<XPLMMenus.h>
+	<XPLMPlanes.h>
+	<XPLMPlugin.h>
+	<XPLMProcessing.h>
+	<XPLMScenery.h>
+	<XPLMUtilities.h>
+	<XPStandardWidgets.h>
+	<XPUIGraphics.h>
+	<XPWidgets.h>
+	<XPWidgetDefs.h>
+	<XPWidgetUtils.h>
+	"gizmo_global_datarefs.h"
+	"XTrig.h"
+	"XDataRefCustom.h"
+	"BulletPhysicsHooks.h"
+	"OpenALHooks.h"
+	"xlua_utils_CurlInterchange.h"
+	"XParticleEngine.h"
+	"XGLShader.h"
+	"XLuaWidgetWindowWrapper.h"
+	"XLuaWidgetBaseWrapper.h"
+	"XLuaCustomCommandWrapper.h"
+	"tgaTools.h"
+	"xlua_utils_FboWrapper.h"
+	"TerrainMap.h"
+	"xlua_builtins.h"
+	"api_namespace_tables.h"
+
+1306317439 c:\users\br\desktop\gizmo\plugin_source\openalhooks.h
+	"GlobalDefs.h"
+	<cstdlib>
+	<stdio.h>
+	"XPLMUtilities.h"
+	"X_STL.h"
+	<OpenAL/al.h>
+	<OpenAL/alc.h>
+	<al.h>
+	<alc.h>
+	<AL/al.h>
+	<AL/alc.h>
+	"dmalloc.h"
+
+1303644657 c:\users\br\desktop\gizmo\plugin_source\namespacetables.h
+
+1295007896 c:\users\br\desktop\gizmo\plugin_source\namespacetables_gfx.h
+
+1294933716 c:\users\br\desktop\gizmo\plugin_source\stringtools.h
+	"X_STL.h"
+
+1305780817 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_acf.h
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_base64.h
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_camera.h
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_fmc.h
+
+1305780817 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_gizmo.h
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_gfx.h
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_gui.h
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_http.h
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_nav.h
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_memcache.h
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_menu.h
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_mouse.h
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_particles.h
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_physics.h
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_plugins.h
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_shaders.h
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_sound.h
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_timer.h
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_traffic.h
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_trig.h
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_xp.h
+
+1305780817 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_acf.cpp
+
+1303644657 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_base64.cpp
+
+1305175487 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_camera.cpp
+
+1300405527 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_fmc.cpp
+
+1306317439 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_gizmo.cpp
+
+1305175487 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_gfx.cpp
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_gui.cpp
+
+1300405527 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_http.cpp
+
+1300405527 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_memcache.cpp
+
+1306317439 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_menu.cpp
+
+1300405527 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_mouse.cpp
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_nav.cpp
+
+1300405527 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_particles.cpp
+
+1306317439 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_physics.cpp
+
+1306317439 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_plugins.cpp
+
+1300405527 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_shaders.cpp
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_sound.cpp
+
+1300405527 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_timer.cpp
+
+1295058784 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_traffic.cpp
+
+1300405527 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_trig.cpp
+
+1306317439 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_xp.cpp
+
+1294933716 source:c:\users\br\desktop\gizmo\plugin_source\stringtools.cpp
+	"StringTools.h"
+
+1300405527 c:\users\br\desktop\gizmo\plugin_source\gfw_io_jail.h
+
+1303644657 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_hash.h
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_logging.h
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_matrix.h
+
+1303644657 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_utils.h
+
+1303644657 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_hash.cpp
+
+1303644657 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_logging.cpp
+
+1305175487 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_matrix.cpp
+
+1305713839 c:\users\br\desktop\gizmo\plugin_source\gizmo_lua_api\api_utils.cpp
+
+1295132570 c:\users\br\desktop\gizmo\plugin_source\luaglu.h
+
+1306317439 c:\users\br\desktop\gizmo\plugin_source\api_namespace_tables.h
+

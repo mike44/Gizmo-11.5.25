@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="AES.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="26837" topLine="1041" />
+	</File>
+	<File name="BulletPhysicsHooks.h" open="1" top="0" tabpos="1">
+		<Cursor position="993" topLine="25" />
+	</File>
+	<File name="GLee.h" open="0" top="0" tabpos="0">
+		<Cursor position="1751" topLine="25" />
+	</File>
+	<File name="GlobalDefs.h" open="1" top="0" tabpos="4">
+		<Cursor position="790" topLine="11" />
+	</File>
+	<File name="LuaGL.c" open="0" top="0" tabpos="0">
+		<Cursor position="46497" topLine="1989" />
+	</File>
+	<File name="OpenALHooks.h" open="1" top="0" tabpos="3">
+		<Cursor position="17800" topLine="648" />
+	</File>
+	<File name="XDataRefCustom.h" open="0" top="0" tabpos="1">
+		<Cursor position="787" topLine="13" />
+	</File>
+	<File name="XParticle.h" open="0" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="XParticleEngine.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="903" topLine="43" />
+	</File>
+	<File name="XParticleEngine.h" open="0" top="0" tabpos="7">
+		<Cursor position="357" topLine="16" />
+	</File>
+	<File name="XPlaneHooks.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="38191" topLine="1344" />
+	</File>
+	<File name="XTrig.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="2400" topLine="30" />
+	</File>
+	<File name="X_STL.h" open="0" top="0" tabpos="0">
+		<Cursor position="847" topLine="7" />
+	</File>
+	<File name="md5.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="2152" topLine="56" />
+	</File>
+	<File name="tgaTools.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="10978" topLine="390" />
+	</File>
+	<File name="tgaTools.h" open="0" top="0" tabpos="0">
+		<Cursor position="205" topLine="16" />
+	</File>
+	<File name="xlua_builtins.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="2189" topLine="42" />
+	</File>
+	<File name="xlua_builtins.h" open="1" top="0" tabpos="6">
+		<Cursor position="2090" topLine="40" />
+	</File>
+	<File name="xlua_utils_FboWrapper.h" open="0" top="0" tabpos="9">
+		<Cursor position="2374" topLine="60" />
+	</File>
+</CodeBlocks_layout_file>
